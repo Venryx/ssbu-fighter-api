@@ -1,6 +1,7 @@
 data/
 credentials.json
 secrets.env
+*.json
 *.bin
 *.out
 *.exe
