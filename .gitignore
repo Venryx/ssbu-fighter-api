@@ -1,1 +1,6 @@
 data/
+credentials.json
+secrets.env
+*.bin
+*.out
+*.exe
