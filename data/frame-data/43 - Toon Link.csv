@@ -1,0 +1,39 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,5,18,,Transitions to jab 2 as early as frame 8
+Jab 2,6,20,,Transitions to jab 3 as early as frame 9
+Jab 3,6,36,,
+F-Tilt ,9,29,,
+U-Tilt,8,25,,
+D-Tilt,9,22,,
+Dash Attack,7,30,,
+F-Smash ,16,48,,Charge hold is frame 8
+U-Smash,11,42,,Charge hold is frame 4
+D-Smash,9/17,46,,Charge hold is frame 3
+N-Air,6/13,41,7,Autocancels on frame 1-2 and 41 onward
+F-Air,14,38,11,Autocancels on frame 1-3 and 39 onward
+B-Air,7,35,8,Autocancels on frame 34 onward
+U-Air,11,59,13,Autocancels on frame 1-5 and 47 onward
+D-Air,17,,23,Autocancels on frame 1-5 and 65 onward
+Z-Air,11,73,8,
+Hero's Bow,18-60,39-82,,Startup is 1 from charge release. Reaches full charge on 60
+Boomerang,27,45,,9 frame animation of catching the boomerang if no other action is performed
+Spin Attack,6/10/14/18/22/27/31/36/41/48,77,,No hitlag on multihits. Can be charged for 60 frames. Startup is 3 on release
+Spin Attack (air),8/16/22/31/44,,30,
+Bomb Pull,,36,,Explodes automatically on frame ~315
+Grab,12,52,,
+Dash Grab ,14,60,,
+Pivot Grab,15,55,,
+Forward Throw,12/13,39,,
+Back Throw,18,45,,
+Up Throw,27/28,49,,
+Down Throw,22/24,49,,
+,,,,
+Spot Dodge,,19/24,,Invulnerable on frame 3-16 
+Forward Roll,,28,,Invulnerable on frame 4-14
+Back Roll,,33,,Invulnerable on frame 4-15
+Neutral Air Dodge,,56,10,Invulnerable on frame 2-26 
+Dir. AD (down),,76,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally down),,85,11-19,Invulnerable on frame 2-19
+Dir. AD (left or right),,93,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally up),,111,11-19,Invulnerable on frame 2-19
+Dir. AD (up),,123,11-19,Invulnerable on frame 2-19

@@ -1,0 +1,50 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab ,5,25,,Transitions to Jab 2 as early as frame 11.,3.0 / 5.0,6/10,4/6,Close/tipper,-16/-14
+Jab 2,4,28,,,4.0 / 6.0,7/11,5/6,Close/tipper,-19/-18
+F-Tilt,8,33,,,9.0 / 12.0,7/11,9/11,Close/tipper,-16/-14
+U-Tilt,6,33,,,6.0 / 9.0,6/9,6/9,Close/tipper,-21/-18
+D-Tilt,7,23,,,7.0 / 10.0,7/10,7/10,Close/tipper,-9/-6
+Dash Attack,13,49,,,9.0 / 12.0,8/14,14/16,Close/tipper,-22/-20
+F-Smash ,10,51,,Charge hold is frame 2.,13.0 / 18.0,9/15,9/12,Close/tipper,-32/-29
+U-Smash,13,58,,Body and sword hits generate on the same frame. Charge hold is frame 9,3.0 / 13.0 / 17.0,0/9/?,4/9/?,body/close/tipper,-41/-36
+D-Smash,6/21,55,,Charge hold is frame 3.,"8.0 / 12.0 / 12.0 /
+17.0",7/13/9/15,6/8/8/11,"Close/tipper/
+close/tipper",-43/-41/-26/-23
+N-Air,6/15,49,7,Autocancels on frame 47 onward,"3.5 / 5.0 / 7.0 /
+9.5",5/7/7/10,2/3/3/4,"Close/tipper/
+close/tipper",-5/-4/-3
+F-Air,6,37,10,Autocancels on frame 36 onward,8.0 / 11.5,7/11,4/5,Close/tipper,-6/-5
+B-Air,7,39,10,Autocancels on frame 1-2 and 32 onward,9.0 / 12.5,7/11,4/5,Close/tipper,-6/-5
+U-Air,5,45,8,Autocancels on frame 1-2 and 38 onward,9.5 / 13.0,8/12,4/5,Close/tipper,-4/-3
+D-Air,9,59,14,Autocancels on frame 1-2 and 55 onward,12.0 / 15.0 / 14.0,9/13/12,5/5/5,Close/meteor/tipper,-9/-9/-9
+Shieldbreaker,19-78,50-109,,"On release, startup is 8 and total frames is 39",8.0 - 24.0,10-18,8-,,-23 to shieldbreak
+Dancing Blade 1,9,39/29,,Second total frames is the air version. Can transition to next slash on frame 12,2.5 / 3.0,5/5,4/4,Close/tipper,-26 / -16 (air)
+Dancing Blade 2 Neutral,5,38,,Can transition to next slash on frame 8,2.5 / 3.0,5/5,4/4,Close/tipper,-29/-29
+Dancing Blade 3 Neutral,4,43,,Can transition to next slash on frame 7,3.0 / 4.0,5/5,4/5,Close/tipper,-35/-34
+Dancing Blade 4 Neutral,7,55,,,4.0 / 6.0,5/9,5/6,Close/tipper,-43/-42
+Dancing Blade 2 Up,4,38,,Can transition to next slash on frame 8,2.5 / 3.0,5/5,4/4,Close/tipper,-30/-30
+Dancing Blade 3 Up,5,43,,Can transition to next slash on frame 8,3.0 / 4.0,5/5,4/5,Close/tipper,-34/-33
+Dancing Blade 4 Up,6,44,,,5.0 / 7.0,6/7,6/7,Close/tipper,-32/-31
+Dancing Blade 3 Down,5,43,,Can transition to next slash on frame 8,3.0 / 4.0,5/5,4/5,Close/tipper,-34/-33
+Dancing Blade 4 Down,7/10/13/16/19,74,,,2.0 / 4.0 / 5.0,4/5/6,-/5/6,"Multi/final/final 
+tipper",-50/-49
+Dolphin Slash,5,,24,Invulnerable on frame 4-5. 1-5 in the air.,11.0 / 7.0,8/7,10/7,Early/late,
+Counter,,64,,Invulnerable on frame 5. Counter window 6-27.,,,,,
+Counter (attack),4,40,,Invulnerable on frame 1-7 in addition to counter freeze frames.,,,,,
+Grab,6,34,,,,,,,
+Dash Grab ,9,42,,,,,,,
+Pivot Grab,10,37,,,,,,,
+Forward Throw,15,31,,,,,,,
+Back Throw,19,47,,,,,,,
+Up Throw,13,44,,,,,,,
+Down Throw,16,42,,,,,,,
+,,,,,,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17 ,,,,,
+Forward Roll,,29,,Invulnerable on frame 4-15,,,,,
+Back Roll,,34,,Invulnerable on frame 5-16 ,,,,,
+Neutral Air Dodge,,52,10,Invulnerable on frame 3-29,,,,,
+Dir. AD (down),,69,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,79,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,85,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,99,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,116,11-19,Invulnerable on frame 3-21,,,,,

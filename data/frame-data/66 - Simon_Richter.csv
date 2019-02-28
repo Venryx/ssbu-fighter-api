@@ -1,0 +1,41 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,5,29,,Transitions to Jab 2 on frame 11. Transitions to Whip dangle from 9.
+Jab 2,3,29,,Transitions to rapid jab on frame 10.
+Rapid Jab,9/12/15...,,,
+Rapid Finisher,3,44,,
+Whip Dangle,,,,"Can initiate from Jab, F-Tilt, and all three smash attacks. 19 lag from putting it away."
+F-Tilt,12,30,,
+U-Tilt,10,37,,
+D-Tilt 1,7,44,,Can cancel hitlag from first hit with second. Possibly a bug but helps it connect.
+D-Tilt 2,15,57/43,,Total frames is 57 on level ground. 43 if you go off the edge.
+Dash Attack,10/13/16/19/22/24,54,,
+F-Smash ,24,62,,Charge hold is frame 5
+U-Smash,18,55,,Charge hold is frame 2
+D-Smash,14/20,55,,Charge hold is frame 2
+N-Air,8/11/14/17/20/23/26,42,14,Autocancels on frame 1-6 and 36 onward
+F-Air,14,39,10,Tethers on frame 13. Autocancels on frame 29 onward
+B-Air,14,39,10,Tethers on frame 13. Autocancels on frame 28 onward
+U-Air,14,39,10,Tethers on frame 13. Autocancels on frame 1-11 28 onward
+D-Air,14,48,26,A hit results in 26 frames of endlag. Autocancels on frame 1-3 and 47 onward
+Axe ,30,66,,
+Cross,19,44,,9 frame animation of catching the cross if no other action is being performed.
+Uppercut,6/9/12/15/18/21,,26,
+Holy Water,18,45,,Lands on level ground at frame 32 if nothing is in the way. 
+Holy Water (explosion),1/4/7/15/23/31/39/47/55,,,Only explodes on contact with the ground or a wall. Bounces up off shields and hitboxes but does not disappear.
+Grab,10,37,,
+Dash Grab ,13,45,,
+Pivot Grab,14,42,,
+Forward Throw,24,41,,
+Back Throw,18,41,,
+Up Throw,25/26,46,,
+Down Throw,33,48,,
+,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17
+Forward Roll,,30,,Invulnerable on frame 4-15
+Back Roll,,35,,Invulnerable on frame 5-16
+Neutral Air Dodge,,46,10,Invulnerable on frame 3-29
+Dir. AD (down),,62,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,69,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,76,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,90,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,104,11-19,Invulnerable on frame 3-21

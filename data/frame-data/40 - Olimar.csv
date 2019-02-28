@@ -1,0 +1,36 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,4,19,,Transitions to jab 2 as early as frame 7.
+Jab 2,4,17,,
+F-Tilt ,15,35,,
+U-Tilt,6/8/10/12/14/16,38,,
+D-Tilt,6,29,,
+Dash Attack,8/11,37,,
+F-Smash,11,39,,Charge hold is frame 6
+U-Smash,12,36,,Charge hold is frame 4
+D-Smash,10,38,,Charge hold is frame 6
+N-Air,7/11/15/19/23,53,13,Autocancels on frame 1-2 and 34 onward
+F-Air,7,42,9,Autocancels on frame 1-5 and 31 onward
+B-Air,10,48,9,Autocancels on frame 1-5 and 36 onward
+U-Air,8,34,18,Autocancels on frame 1-5 and 31 onward
+D-Air,9,51,18,Autocancels on frame 1-5 and 31 onward
+Pikmin Pluck,,8,,32 frame failure animation when your squad is full.
+Pikmin Throw,9,24,,
+Winged Pikmin,,,30/19,30 landing lag if the pikmin let go of you. Frame 30 is the earliest you can cancel the move.
+Pikmin Order,,17,,Super armor on frame 2-7
+Grab,12,41/47/56,,Total frames depends on having one/two/three pikmin
+Dash Grab ,12,49/57/68,,Total frames depends on having one/two/three pikmin
+Pivot Grab,12,44/51/60,,Total frames depends on having one/two/three pikmin
+Forward Throw,18,35,,
+Back Throw,21,39,,
+Up Throw,21/22,49,,
+Down Throw,23/31,41,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15 
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,57,10,Invulnerable on frame 3-29 
+Dir. AD (down),,78,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,87,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,96,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,118,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,132,11-19,Invulnerable on frame 3-21

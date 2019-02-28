@@ -1,0 +1,37 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab ,2,19,,Transitions to Jab 2 as early as frame 5.,2.9,9,4,,-13
+Jab 2,2,21,,Transitions to Jab 3 as early as frame 6.,1.7,5,3,,-16
+Jab 3,3,33,,,4.7,12,5,,-25
+F-Tilt,5,25,,,8.2,7,8,,-12
+U-Tilt,5,29,,,7.4,7,7,,-17
+D-Tilt,5,27,,,8.2 / 5.8,7/6,8/6,Close/far,-14/-16
+Dash Attack,6,37,,,11.5 / 7.0,9/7,19/12,Early/late,-12
+F-Smash ,15,47,,Charge hold is frame 5,20.9 / 17.2,16/15,14/12,Close/far,-18/-20
+U-Smash,9,39,,Head intangibile on frame 9-13. Charge hold is frame 6,16.4,11,11,,-19
+D-Smash,5/14,43,,Charge hold is frame 2,11.7 / 14.1,9/10,8/10,,-30/-19
+N-Air,3,45,7,Autocancels on frame 1-2 and 34 onward,5.8 / 9.4,6/8,3/4,Early/late,-4/-3
+F-Air,16,59,17,Autocancels on frame 1-2 and 43 onward,17.6 / 11.7,11/9,6/5,Late/Early,-11/-12
+B-Air,6,33,10,Autocancels on frame 1-5 and 19 onward,14.1 / 8.2,10/7,5/4,Early/Late,-5/-6
+U-Air,4,30,8,Autocancels on frame 17 onward,10.2,8,4,,-4 
+D-Air,16,44,13,Autocancels on frame 1-5 and 35 onward,14.1,10,5,,-8
+Megavitamin,17,49,,,5.8 / 4.7,6/6,3/3,Early/Late,-23
+Super Sheet,12,35,,Reflects on frame 7-22.,8.2,7,8,,-15
+Super Jump Punch,3,,30,,14.1 / 7.0,10/7,13/7,Early/Late,
+Dr. Tornado,10/14/18/22/26/30/40,74,,Armor on frame 5-9 but only on the ground.,1.8 / 3.5,4/11,3/4,Multi/Final,-30
+Grab,6,34,,,,,,,
+Dash Grab ,9,42,,,,,,,
+Pivot Grab,10,36,,,,,,,
+Forward Throw,13,27,,,,,,,
+Back Throw,40,69,,,,,,,
+Up Throw,18,39,,,,,,,
+Down Throw,18,39,,,,,,,
+,,,,,,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17,,,,,
+Forward Roll,,29,,Invulnerable on frame 4-15,,,,,
+Back Roll,,34,,Invulnerable on frame 5-16,,,,,
+Neutral Air Dodge,,52,10,Invulnerable on frame 3-29 ,,,,,
+Dir. AD (down),,71,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,81,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,87,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,100,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,116,11-19,Invulnerable on frame 3-21,,,,,

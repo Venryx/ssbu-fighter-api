@@ -1,0 +1,42 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,3,21,,Transitions to jab 2 as early as frame 6.
+Jab 2,3,23,,Transitions to rapid jab as early as frame 5
+Rapid Jab,3/8/12...,,,Alternates between four and five frames between punches.
+Rapid Finisher,7,38,,
+F-Tilt ,8,33,,
+U-Tilt,7/22,47,,
+D-Tilt,9,37,,
+Dash Attack,10,44,,
+F-Smash ,25,49,,Charge hold is frame 16
+U-Smash,12/17/21/25/29/33,53,,Charge hold is frame 7
+D-Smash,9/29,49,,Charge hold is frame 3
+N-Air,3,35,8,Autocancels on frame 1-2 and 27 onward
+F-Air,10,39,14,Autocancels on frame 1-2 and 30 onward
+B-Air,13,35,14,Autocancels on frame 1-2 and 30 onward 
+U-Air,6,42,12,Autocancels on frame 1-5 and 39 onward
+D-Air,14,45,12,Autocancels on frame 1-13 and 39 onward
+Pocket,,50,,Invulnerable on frame 5-23. Pockets on 8-23
+Pocket (throw),9,30,,This is not the same throw as with a holdable item
+Lloid Rocket,52,35,,
+Balloon Trip,,,30/20,First landing lag is from free fall. Second is with balloons still attached
+Timber (plant),,43,,
+Timber (water),5,54,,
+Timber (tree grows/falls),46/15,,,Refers to how long after water touches sprout/Tree is chopped a second time
+Timber (axe),6,47/54,,"Second total frames is hitting a tree, and includes 13 frames of hitlag"
+Grab,14,43,,
+Dash Grab ,16,47,,
+Pivot Grab,17,44,,
+Forward Throw,15,45,,
+Back Throw,11,45,,
+Up Throw,13,45,,
+Down Throw,18,35,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,57,10,Invulnerable on frame 3-30 
+Dir. AD (down),,80,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,87,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,96,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,111,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,128,11-19,Invulnerable on frame 3-21

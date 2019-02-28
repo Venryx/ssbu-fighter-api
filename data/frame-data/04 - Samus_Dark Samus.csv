@@ -1,0 +1,43 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,3,17,,Transitions to Jab 2 as early as frame 15.,3.0,5,4,,-11
+Jab 2,6,29,,,8.0,7,8,,-15
+F-Tilt,8,33,,Deals 1.0 more damage when angled. ,8.0 / 9.0 / 10.0,7/7/8,8/9/10,close/middle/far,-17/-16/-15
+U-Tilt,15,39,,,13.0,9,12,,-12
+D-Tilt,6,44,,,12.0,9,11,,-27
+Dash Attack,8,41,,,7.0 / 10.0 / 6.0,7/8/6,7/10/6,Early/late/later,-26
+F-Smash ,10,48,,"Deals 1.0 more damage when angled up, 1.0 less when angled down. Charge hold frame is 3.",12.0 / 14.0,9/10,8/10,Close/Far,-30/-28
+U-Smash,11/15/19/23/27,56,,Charge hold frame is 6,3.0 / 6.0,5/6,3/5,Multihit/final,-24
+D-Smash,9/17,44,,Charge hold frame is 3,10.0 / 12.0,8/9,7/8,,-28/-19
+N-Air,8/14,45,9,Autocancels on frame 1-7 and 35 onward,10.0 / 9.0,8/7,4/4,,-5/-5
+F-Air,6/12/18/24/30,59,14,Autocancels on frame 47 onward,3.0 / 1.6 / 5.0,5/4/12,2/2/3,First/multi/final,-12/-12/-11
+B-Air,9,41,14,Autocancels on frame 1-8 and 42 onward,14.0 / 9.0,11/7,5/4,Early/late,-9/-10
+U-Air,5/7/10/13/16,39,18,Autocancels on frame 1-2 and 34 onward,3.0 / 1.2 / 4.0,5/3/10,2/2/3,First/multi/final,-16/-16/-15
+D-Air,17,48,12,Autocancels on frame 1-3 and 34 onward,10.0 / 14.0,8/10,4/5,Early/ meteor,-8/-7
+Z-Air,8,59,8,,1.5,7,3,,-5
+Charge Shot (partial charge),3 (+13),31,,Startup is 3 from charge state. Takes 13 frames to enter charge state.,5.0 - 26.1,9-17,3-8,,-19 to -6
+Charge Shot (full charge),16,50,,Takes 125 frames to reach full charge ,28.0,17,8,,-9 
+Homing Missile,18,54/59,,Projectile lasts until frame 118. Total frames is 59 in the air for either missile type.,8.0,7,3,,-26
+Super Missile,21,57/59,,"Projectile lasts until frame 87. Starts moving forward around frame 50, allowing for followups.",12.0,9,4,,-24
+Screw Attack,"4/7/10/12/15/
+18/21/24/25",,24,Invulnerable on frame 3-6,3.0 / 1.0 / 2.0,5/4,4/2,First/multi/final,
+Screw Attack (air),"5/7/9/11/13/15/
+17/19/21/23/25/27",,24,Invulnerable on frame 3-4,1.0,4,2,,
+Bomb,36-80/81,47/44/48,,"Explosion occurs one frame after touching a target. Bomb explodes automatically on frame 81.
+Total frames is 44 if the player is holding down.  And 48 in the air with no way to reduce it",4.0 / 5.0,5,2,,
+Grab,15,59,,,,,,,
+Dash Grab ,17,67,,,,,,,
+Pivot Grab ,18,62,,,,,,,
+Forward Throw,16,41,,,,,,,
+Back Throw,12,49,,,,,,,
+Up Throw,15/16,41,,,,,,,
+Down Throw,21,37,,,,,,,
+,,,,,,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17,,,,,
+Forward Roll (Samus/Dark Samus),,34/31,,Invulnerable on frame 4-18 ,,,,,
+Back Roll (Samus/Dark Samus),,39/36,,Invulnerable on frame 5-20 ,,,,,
+Neutral Air Dodge,,56,10,Invulnerable on frame 3-29,,,,,
+Dir. AD (down),,80,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,86,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,96,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,113,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,130,11-19,Invulnerable on frame 3-21,,,,,

@@ -1,0 +1,42 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab ,3,19,,Transitions to another jab on frame 13.
+F-Tilt,8,36,,
+U-Tilt,9,34,,
+D-Tilt ,6,32,,
+Dash Attack,9,41,,Projectile attack.
+F-Smash ,14,45,,Charge hold is frame 5
+U-Smash,11/16,47,,"Isabelle will not suffer hitlag from this attack, improving combo potential. Charge hold is frame 7"
+D-Smash,8/12,43,,Charge hold is frame 3
+N-Air,5,33,6,Autocancels on frame 1-2 and 34 onward
+F-Air,10,39,14,Projectile attack. Autocancels on frame 1-2 and 30 onward
+B-Air,13,35,14,Projectile attack. Autocancels on frame 1-2 and 30 onward
+U-Air,6,42,9,Autocancels on frame 1-5 and 39 onward
+D-Air,14,45,9,Autocancels on frame 1-13 and 39 onward
+Pocket,,50,,invulnerable on frame 5-23. Pockets projectiles on frame 9-23.
+Pocket (throw),9,30,,This is not the same throw as with a holdable item
+Fishing Rod,25,,,Frame 50 is the earliest you can reel in.
+Fishing Rod (reel in),3,38,,
+Fishing Rod Throw Forward,15,45,,
+Fishing Rod Throw Back,13,35,,
+Fishing Rod Throw Up,22,43,,
+Fishing Rod Throw Down,18/22,39,,
+Balloon Trip,,,20/30,"20 landing lag if you land inside the swing. 30 if you land from special fall. Has a ""fuel"" mechanic."
+Lloid Trap,11/19/27/35/43/51,49/26,,"Proximity activation as early as 51. 49 total frames to plant. 26 total frames to manually activate. 
+Several characters can safely run past this trap."
+Grab,14,43,,
+Dash Grab ,15,46,,
+Pivot Grab,17,44,,
+Forward Throw,15,45,,
+Back Throw,14,49,,
+Up Throw,20,52,,
+Down Throw,18,35,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,58,10,Invulnerable on frame 3-30
+Dir. AD (down),,80,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,91,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,97,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,115,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,133,11-19,Invulnerable on frame 3-21

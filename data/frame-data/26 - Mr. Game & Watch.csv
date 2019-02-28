@@ -1,0 +1,40 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab ,4,,,Transitions to rapid jab as early as 7.
+Rapid Jab,5/11/17...,,,
+Rapid Finisher,2,34,,
+F-Tilt,8,37,,
+U-Tilt,10/20,33,,
+D-Tilt,6,42,,
+Dash Attack,6,37,,
+F-Smash,17,42,,Charge hold is frame 7
+U-Smash,21,38,,Invincible on frame 21-25. Charge hold is frame 15
+D-Smash,12,37,,Charge hold is frame 6
+N-Air,7/12/17/22,42,7,Autocancels on frame 1-2 and 40 onward
+F-Air,10/44,47,17,"Bomb leaves his hands on 14, exploding automatically on 44 or upon touching ground.
+Autocancels on frame 42 onward"
+B-Air,10/14/18/22,39,18,landing hit on frame 1. Autocancels on frame 1-9 and 38 onward
+U-Air,9/15/21/27/33/37,42,12,Attack is a projectile. Autocancels on frame 44 onward
+D-Air,12,49,22,landing hit on frame 1. Autocancels on frame 1-5 and 50 onward
+Chef,18,54,,Projectile and melee attack generate on same frame. Generates new sausage every 32 frames
+Judge,16,49,,All judges have 16 startup and 49 total frames. Judge 5 is 16/19/22/25 startup.
+Fire,3,,7,"Invulnerable frame 5-13 Takes 7 frames to exit parachute by pressing down and avoiding landing lag.
+Can cancel directly with attacks as well. Opens parachute on frame 37."
+Oil Panic ,,43,,Begins absorbing/reflecting on frame 6. Takes 13 frames to put away bucket after extended usage.
+Oil Panic (overload),2,49,,Successful absorbs incur a 24 frame animation that is completely invulnerable.
+Grab,6,34,,
+Dash Grab ,9,42,,
+Pivot Grab,10,37,,
+Forward Throw,26,40,,
+Back Throw,26,40,,
+Up Throw,26,40,,
+Down Throw,35,49,,
+,,,,
+Spot Dodge,,21/25,,Invulnerable on frame 3-17 
+Forward Roll,,30,,Invulnerable on frame 4-15 
+Back Roll,,35,,Invulnerable on frame 5-16
+Neutral Air Dodge,,59,10,Invulnerable on frame 3-28 
+Dir. AD (down),,84,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,93,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,100,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,123,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,132,11-19,Invulnerable on frame 3-21

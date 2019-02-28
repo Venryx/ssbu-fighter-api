@@ -1,0 +1,38 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,3,20,,Transitions to jab 2 as early as frame 11
+Jab 2,3,20,,
+F-Tilt ,7,33,,
+U-Tilt,4/6,26,,
+D-Tilt,3,14,,
+Dash Attack,7,31,,
+F-Smash,16,54,,Charge hold is frame 6
+U-Smash,10/14,48,,Charge hold is frame 7
+D-Smash,7/11/16,45,,Charge hold is frame 3
+N-Air,14,47,7,Autocancels on frame 33 onward
+F-Air,6,35,9,Autocancels on frame 25 onward
+B-Air,19,52,13,Autocancels on frame 46 onward
+U-Air,7/9/13/17/23,51,13,Autocancels on frame 40 onward
+D-Air,20,69,12,Autocancels on frame 45 onward
+Robo Beam,25,49,,Melee attack and projectile generate on same frame
+Arm Rotor,13/18/23/28/33/44,85,,Multihits have no hitlag. Reflects on frame 13-35
+Arm Rotor (mashing),13/18/23/28/33/38/43/48/53/58/66,107,,Multihits have no hitlag. Reflects on frame 13-60
+Robo Burner,,,,Invulnerable on frame 2-4 on the ground. Can act on frame 25. Fuel lasts up to 143 frames.
+Gyro,3 (+6),36,,3 startup from charging state. 6 frames to enter charging state
+Gyro (full charge),9,42,,Reaches full charge on frame 98
+Grab,6,37,,
+Dash Grab ,9,45,,
+Pivot Grab,10,40,,
+Forward Throw,11,23,,
+Back Throw,12,26,,
+Up Throw,59,81,,
+Down Throw,50,75,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15 from 4-16
+Back Roll,,34,,Invulnerable on frame 5-16 from 4-16
+Neutral Air Dodge,,50,10,Invulnerable on frame 3-29 from 3-27
+Dir. AD (down),,68,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,75,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,83,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,100,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,111,11-19,Invulnerable on frame 3-21

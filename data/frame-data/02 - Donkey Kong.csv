@@ -1,0 +1,44 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,5,24,,Transitions to Jab 2 as early as frame 8. ,4.0,8,5,,-14
+Jab 2,4,34,,,6.0,11,6,,-24
+F-Tilt,7,34,,Arm intangibility on frame 6-9,8.0 / 9.0,7/7,8/9,No angle/angled,-19/-18
+U-Tilt,5,38,,Arm intangibility on frame 5-11,10.0,8,10,,-23
+D-Tilt,6,24,,Arm intangibility on frame 5-7,6.0,6,6,,-12
+Dash Attack,9,34,,,12.0 / 9.0,11/9,11/9,Early/Late,-14
+F-Smash,22,54,,Arm and head intangibility on frame 20-26. Charge hold is frame 14.,22.0 / 21.0,16,14,Far/Close,-18
+U-Smash,14,49,,Arm and head intangibility on frame 12-15. Charge hold is frame 6,19.0,12,13,,-22
+D-Smash,11,55,,Arm intangibility on frame 11-14. Charge hold is frame 2,17.0,11,11,,-33
+N-Air,10,38,10,Autocancels on frame 1-9 and 27 onward,11.0 / 8.0,8/7,4/4,Early/Late,-6
+F-Air,18,55,17,Autocancels on frame 56 onward,16.0/15.0,10/15,6/5,Early/Meteor,-11/-12
+B-Air,7,31,11,Autocancels on frame 1-6 and 31 onward,13.0 / 8.0,9/7,5/4,Early/Late,-6/-7
+U-Air,6,37,15,Head intangibility on frame 5-10. Autocancels on frame 1-5 and 26 onward,13.0,9,5,,-10
+D-Air,14,54,14,Autocancels on frame 1-2 and 50 onward,16.0,10,6,,-8
+Giant Punch,19 (+7),62,,"Entering charge window takes 7 frames. 4 to cancel with shield.
+Arm intangibility on frame 4-20.",10.0 - 24.0,8-14,10-22,,-33 to -21
+Giant Punch (full charge),19,47,,Super armor on frame 11-20. Takes 131 frames to reach full charge,28.0,15,24,,-4
+Headbutt,20,62,,Super armor on frame 5-14 on the ground and in the air.,10.0,8,10,,-32
+Spinning Kong,19/25/32/40/49/55/62,104,,Super armor on frame 8-17. Arm intangibility on frame 19-24,5.0 / 1.3 / 4.0,6/4/11,6/3/5,First/multi/Final,-37
+Spinning Kong (air),4/12...,,38,"Past frame 12, this move hits once every 1, 2, or 3 frames,
+seems inconsistent. Arm intangibility from frame 10-38",5.0 / 1.0 / 2.0,6/4/4,6/2/3,First/multi/Final,
+Hand Slap,15/26,57,,Each additional rep takes another 27 frames as you mash.,14.0,10,8,,-23
+Hand Slap (air),19/28,49,10,,5.0 / 6.0,6/6,6/6,First/Second,-4
+Grab,8,38,,,,,,,
+Dash Grab ,11,46,,,,,,,
+Pivot Grab,12,41,,,,,,,
+Cargo Forward Throw,15,45,,,,,,,
+Cargo Back Throw,16,42,,,,,,,
+Cargo Up Throw,15,29,,,,,,,
+Cargo Down Throw,17,44,,,,,,,
+Back Throw,15,39,,,,,,,
+Up Throw,14,43,,,,,,,
+Down Throw,19,54,,,,,,,
+,,,,,,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17 ,,,,,
+Forward Roll,,30,,Invulnerable on frame 4-15,,,,,
+Back Roll,,35,,Invulnerable on frame 5-16,,,,,
+Neutral Air Dodge,,48,10,Invulnerable on frame 4-32,,,,,
+Dir. AD (down),,66,11-19,Invulnerable on frame 4-22,,,,,
+Dir. AD (diagonally down),,73,11-19,,,,,,
+Dir. AD (left or right),,82,11-19,,,,,,
+Dir. AD (diagonally up),,88,11-19,,,,,,
+Dir. AD (up),,109,11-19,,,,,,

@@ -1,0 +1,39 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,3,19,,
+Jab 2,2,21,,
+Jab 3,4,29,,
+Rapid Jab,4/7/10...,,,Will not hit opponents when out of Ink
+Rapid Finisher,6,48,,Will not hit opponents when out of Ink
+F-Tilt,8,34,,
+U-Tilt,7,29,,
+D-Tilt,5/12,31,,
+Dash Attack,8,35,,
+F-Smash ,16,51,,Gets weaker when out of ink. Charge hold is frame 5
+U-Smash,9/18,57,,Gets weaker when out of ink. Charge hold is frame 3
+D-Smash,11/20,49,,Gets weaker when out of ink. Charge hold is frame 2
+N-Air,6,31,5,Autocancels on frame 27 onward
+F-Air,10,41,12,Autocancels on frame 1-4 and frame 40 onward
+B-Air,7,36,6,Autocancels on frame 1-6 and frame 30 onward
+U-Air,12/17,43,6,Autocancels on frame 40 onward
+D-Air,16,61,10,Autocancels on frame 1-4 and 33 onward
+Splattershot,12/16/20/24,36,,Startup and total frames is the minimum. When out of Ink this move enters the refill state.
+Splat Roller,16,17/35,,17 frame animation to jump cancel. 35 animation to stop on the ground.
+Super Jump,12,,40,Inkling will not suffer hitlag from this attack. Landing hitbox on frame 1.
+Splat Bomb,20-40,47-65,,Holding the button allows for a longer yet slower throw. Bombs explode on contact or on frame 99-159.
+Grab,8,34,,
+Dash Grab ,9,41,,
+Pivot Grab,10,37,,
+Forward Throw,22/23,39,,
+Back Throw,17,36,,
+Up Throw,21/22,36,,
+Down Throw,20,40,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,50,10,Invulnerable on frame 3-29
+Dir. AD (down),,70,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,76,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,84,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,100,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,112,11-19,Invulnerable on frame 3-21

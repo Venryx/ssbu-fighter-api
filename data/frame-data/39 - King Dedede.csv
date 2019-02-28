@@ -1,0 +1,43 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,10,32,,Transitions to Jab 2 as early as frame 13 
+Jab 2,11,27,,Transitions to Rapid jab as early as frame 22
+Rapid Jab,5/8/11...,,,
+Rapid Finisher,4,49,,
+F-Tilt ,12/16/20/23,48,,
+U-Tilt,7,38,,Head intangible on frame 7-13.
+D-Tilt,6,37,,
+Dash Attack,26,66,,
+F-Smash,40,77,,This attack only hits directly above Dedede on 40. Shockwave on 44. Charge hold is frame 33
+U-Smash,17,67,,Charge hold is frame 6
+D-Smash,12/20,52,,Charge hold is frame 3
+N-Air,7,39,9,Autocancels on frame 1-2 and 35 onward
+F-Air,13,41,18,Autocancels on frame 1-4 and 40 onward
+B-Air,17,37,13,Autocancels on frame 1-4 and 33 onward
+U-Air,10/12/14/16/18/20/22/24,44,13,Autocancels on frame 1-4 and 42 onward
+D-Air,22,47,18,Autocancels on frame 1-6 and 44 onward
+Inhale,17,77,,"Startup and total frames refer to minimum usage. 19 endlag after extended usage.
+Can inhale projectiles starting on frame 20 and involuntarily spit them back"
+Inhale (spit),6,29,,
+Gordo Throw,29,60,,
+Super Dedede Jump,69,,60,"Invulnerable on frame 18-21. Super Armor on frame 22-?
+Leg invulnerability on frame 73-landing. Landing hitbox on frame 3. "
+Jet Hammer (partial charge),10 (+17),59,,"10 startup from release. 17 to enter charge state
+Heavy armor on frame 1-14 from release. Only on ground version"
+Jet Hammer (full charge),9,69,,Heavy armor on frame 1-14 from release. Only on ground version
+Grab,8,39,,
+Dash Grab ,11,47,,
+Pivot Grab,12,42,,
+Forward Throw,13/14,37,,
+Back Throw,18/19,41,,
+Up Throw,16/19,39,,
+Down Throw,26,41,,
+,,,,
+Spot Dodge,,23/28,,Invulnerable on frame 3-18
+Forward Roll,,32,,Invulnerable on frame 4-16
+Back Roll,,37,,Invulnerable on frame 5-17 
+Neutral Air Dodge,,43,10,Invulnerable on frame 4-32 
+Dir. AD (down),,58,11-19,Invulnerable on frame 4-23
+Dir. AD (diagonally down),,66,11-19,Invulnerable on frame 4-23
+Dir. AD (left or right),,72,11-19,Invulnerable on frame 4-23
+Dir. AD (diagonally up),,86,11-19,Invulnerable on frame 4-23
+Dir. AD (up),,96,11-19,Invulnerable on frame 4-23

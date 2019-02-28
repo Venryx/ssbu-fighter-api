@@ -1,0 +1,45 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab ,5,22,,
+F-Tilt,8,33,,
+U-Tilt,6,38,,
+D-Tilt,7,21,,
+Dash Attack,13,45,,
+F-Smash,13,53,,Charge hold is frame 6
+U-Smash ,12/15/17/19/22,58,,forearm intangibility on frame 10-23. Charge hold is frame 4
+D-Smash,6/21,62,,Charge hold is frame 3
+N-Air,6/15,45,9,Autocancels on frame 47 onward
+F-Air,10,29,8,Autocancels on frame 31 onward
+B-Air,8,35,10,Autocancels on frame 1-2 and 32 onward
+U-Air,5,41,8,Autocancels on frame 1-2 and 38 onward
+D-Air,16,51,14,Autocancels on frame 1-2 and 52 onward
+Flare Blade,21-260,44-283,,Startup is 10 from release. 11 frames to enter charge state.
+Double Edged Dance,9,39/29,,Second total frames is from the air. Can transition to next slash as early as frame 12.
+Double Edged Dance 2 Neutral,5,38,,Can transition to next slash as early as frame 8.
+Double Edged Dance 3 Neutral,4,43,,Can transition to next slash as early as frame 7.
+Double Edged Dance 4 Neutral,7,58,,
+Double Edged Dance 2 Up,4,38,,Can transition to next slash as early as frame 8.
+Double Edged Dance 3 Up,5,43,,Can transition to next slash as early as frame 8.
+Double Edged Dance 4 Up,6,44,,
+Double Edged Dance 3 Down,5,44,,Can transition to next slash as early as frame 8
+Double Edged Dance 4 Down,7/10/13/16/19,71,,
+Blazer (Roy Only),9/11/14/17/20,,30,Super Armor on frame 4-10 from the ground. Invulnerable on frame 9
+Aether (Chrom Only),10/39/46/54,,36,Landing hit on frame 1 Super armor on frame 10-30. Ending just before he ascends
+Counter,,67,,Invulnerable on frame 7. Counters on 8-29 from 8-27.
+Counter (attack),4,40,,Invulnerable on frame 1-5. In addition to counter freeze frames
+Grab,7,36,,
+Dash Grab ,10,44,,
+Pivot Grab,11,39,,
+Forward Throw,15,31,,
+Back Throw,8,44,,
+Up Throw,13,44,,
+Down Throw,16,41,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable from 3-17
+Forward Roll,,29,,Invulnerable from 4-15
+Back Roll,,34,,Invulnerable from 5-16
+Neutral Air Dodge,,44,10,Invulnerable from 3-29
+Dir. AD (down),,62,11-19,Invulnerable from 3-21
+Dir. AD (diagonally down),,68,11-19,Invulnerable from 3-21
+Dir. AD (left or right),,74,11-19,Invulnerable from 3-21
+Dir. AD (diagonally up),,87,11-19,Invulnerable from 3-21
+Dir. AD (up),,97,11-19,Invulnerable from 3-21

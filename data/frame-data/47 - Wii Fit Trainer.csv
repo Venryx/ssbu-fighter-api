@@ -1,0 +1,41 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,4,25,,Transitions to jab 2 as early as frame 9
+Jab 2,3,29,,Transitions to jab 2 as early as frame 9 
+Jab 3,5,39,,
+F-Tilt ,6,32,,
+U-Tilt,5,29,,Arm intangibility on frame 3-12
+D-Tilt,9,38,,
+Dash Attack,6,38,,
+F-Smash ,16,56,,Charge hold is frame 6
+U-Smash,14,57,,Invulnerable on frame 12-15. Charge hold is frame 4
+D-Smash,18,51,,Charge hold is frame 4
+N-Air,9/12,34,8,Autocancels on frame 1-5 and 33 onward
+F-Air,9,38,9,Autocancels on frame 1-8 and 25 onward
+B-Air,5,48,12,Autocancels on frame 1-2 and 43 onward
+U-Air,6,39,9,Autocancels on frame 1-5 and 36 onward
+D-Air,15,39,12,Autocancels on frame 35 onward
+Sun Salutation,4 (+17),39,,Startup is 4 from charging state. 17 frames to enter charging state. 4 frames to cancel charge with shield.
+Sun Salutation (full charge),21,56,,103 frames to reach full charge
+Header,15-31,40-56,15,"Earliest/latest hit. Total frames does not count 5 frames of hitlag from hitting the ball 
+Can cancel move on frame 10, resulting in 15 special landing lag"
+Super Hoop,6/23/40,,30,
+Deep Breathing,39,,,"24 frames endlag when successful, 15 frames  in the air. 48 frames when unsuccessful.
+Effects lasts for just under ten seconds. Repeated use slows charge. 
+Frame 39 is the earliest you can succeed on fresh use."
+Grab,6,34,,
+Dash Grab ,9,42,,
+Pivot Grab,10,37,,
+Forward Throw,36/38,49,,
+Back Throw,19/21,49,,
+Up Throw,28,49,,
+Down Throw,24,49,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15 
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,57,10,Invulnreable on frame 3-28
+Dir. AD (down),,80,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,88,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,96,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,107,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,124,11-19,Invulnerable on frame 3-21

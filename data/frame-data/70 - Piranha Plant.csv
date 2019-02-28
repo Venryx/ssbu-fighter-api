@@ -1,0 +1,48 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,2,19,,Transitions to jab 2 as early as frame 5
+Jab 2,2,20,,Transitions to jab 3 as early as frame 8 and rapid as early as frame 7
+Jab 3,7,25,,
+Rapid Jab,6/10/14...,,,
+Rapid Finisher,7,40,,
+F-Tilt,7,27,,Transitions to F-tilt 2 as early as frame 12
+F-Tilt 2,5,31,,
+U-Tilt,8,31,,Head intangibility on frame 8-15
+D-Tilt ,9,28,,
+Dash Attack,7,47,,
+F-Smash ,16,51,,Head intangibility on frame 16-17. Charge hold is frame 5
+U-Smash,12/16,51,,Head intangibility on frame 12-18. Charge hold is frame 6
+D-Smash,12/16,45,,Charge hold is frame 5
+N-Air,8/11/14/17/18,47,15,Autocancels on frame 1-4 and 40 onward
+F-Air,10,47,13,Autocancels on frame 1-2 and 42 onward
+B-Air,14,61,16,Autocancels on frame 1-4 and 43 onward
+U-Air,7,38,10,Autocancels on frame 22 onward
+D-Air,9,44,18,Autocancels on frame 1-2 and 33 onward
+Ptooie,9,,,"To blow away is 41 total frames. Earliest you can blow away is on 22. 
+Endlag is 18 if projectile makes contact. Eating projectile is 44 frames or 30 if it's close to you."
+Poison Breath,13 (+10),38,,"10 frames to enter charge state, 13 startup from charge. Lasts about ~110 frames at no charge"
+Poison Breath (full charge),23,48,,"Cloud deals damage every 4 frames at first then every 7 towards the end. Lasts about
+ ~150 frames. Takes 95 frames to reach full charge. Takes 2 frames to cancel charge with shield."
+Piranhacopter,"13/16/22/28/34/
+40/46/52/58/64",,20,
+Long-Stem Strike,2 (+18),39/49,,"startup is 2 upon reaching target. Reaches full charge on frame 78. Takes 18 frames to enter charge state
+Endlag on hit is 39, or 49 if you tipped over. Endlag on whiff is 49 or 59 if you tipped over.
+Head intangibility begins on frame 3 of travel or frame 1 of reaching a target, whichever comes first.
+Pot armor begins on frame 18."
+Footstool attack,13,22,,Occurs whenever Piranha Plant is footstooled while crouching.
+Grab,6,34,,
+Dash Grab ,9,42,,
+Pivot Grab,9,36,,
+Forward Throw,13/14,31,,
+Back Throw,19,34,,
+Up Throw,20,49,,
+Down Throw,20/30/31,47,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,42,,Invulnerable on frame 3-30
+Dir. AD (down),,58,,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,66,,Invulnerable on frame 3-21
+Dir. AD (left or right),,69,,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,81,,Invulnerable on frame 3-21
+Dir. AD (up),,88,,Invulnerable on frame 3-21

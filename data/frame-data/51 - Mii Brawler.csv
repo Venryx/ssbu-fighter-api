@@ -1,0 +1,55 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,2,15,,Transitions to jab 2 as early as frame 5
+Jab 2,2,18,,Transitions to rapid jab as early as frame 7
+Rapid jab,5/7/9...,,,
+Rapid finisher,4,40,,
+F-Tilt ,6,27,,
+U-Tilt,5,29,,
+D-Tilt,7,27,,
+Dash Attack,6,35,,
+F-Smash ,17,67,,Charge hold is frame 5
+U-Smash,8,47,,Legs intangibile on frame 8-11. Charge hold is frame 3
+D-Smash,9,43,,Charge hold is frame 2
+N-Air,3,45,6,Autocancels on frame 1-2 and 37 onward
+F-Air,8/15,44,11,Autocancels on frame 1-2 and 30 onward
+B-Air,7,39,11,Autocancels on frame 28 onward
+U-Air,6,35,10,Autocancels on frame 23 onward
+D-Air,16,49,18,Autocancels on frame 1-4 and 37 onward
+Shot Put,28,67,,
+Flashing Mach Punch,"15/18/21/24/27/29/31/33/35/
+37/39/41/43/45/47/49/51/53/
+55/57/59/69",107/59,,"First total frames is when successful. Second is when you miss.
+When successful, invincible on frame 15-37 and 60-73
+"
+Exploding Side Kick,50/52,79/81,,Second number is for reversed version
+Onslaught,15 (1/4/8/10/13/15/18/28),70/73,,Begins on frame 1 of reaching a target. Second total frames is if you don't hit
+Onslaught (air),15 (1/4/8/10/13/15/18/28),,30/40,Begins on frame 1 of reaching a target. Second landing lag is if you don't hit
+Burning Dropkick,18,68/60,,"First total frames is in the air, second is on level ground. 34 endlag on hit "
+Suplex ,13,51,,
+Suplex (success),52,79,,
+Soaring Axe Kick,10/30,,22/29,Second kick is now voluntary. Second landing lag pertains to that.
+Helicopter Kick,8/15/20/26/31/36,,26,Leg intangibility on frame 8-37
+Thrust Uppercut,3/6/9/12/15/20,,30,
+Head-On Assault,8/31,,58,Landing hit on frame 1
+Head-On Assault (air),23,,58,Landing hit on frame 1
+Feint Jump,,56,29,Total frames is if you don't land during the animation
+Feint Jump (kick),8,52,37,
+Counter Throw,,38,,Invulnerable on frame 5. Counters frame 6-23
+Counter Throw (activated),3/16,48,,Invulnerable on frame 1-2. Throw invincibility on frame 3-15
+Grab,6,34,,
+Dash Grab ,9,42,,
+Pivot Grab,10,37,,
+Forward Throw,14,37,,
+Back Throw,9/11,42,,
+Up Throw,16,39,,
+Down Throw,18/20,35,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,40,10,Invulnerable on frame 3-29
+Dir. AD (down),,58,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,65,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,70,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,80,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,86,11-19,Invulnerable on frame 3-21

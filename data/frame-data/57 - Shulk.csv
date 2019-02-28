@@ -1,0 +1,42 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,5,25,,Transitions to jab 2 as early as frame 11
+Jab 2,5,33,,Transitions to jab 3 as early as frame 12 
+Jab 3,6,44,,
+F-Tilt ,12,43,,
+U-Tilt,11,39,,
+D-Tilt,10,31,,
+Dash Attack,12,40,,
+F-Smash ,14/23,67,,Charge hold is frame 8
+U-Smash,18/30,67,,Charge hold is frame 10
+D-Smash,18/23/28/35/41,82,,Charge hold is frame 4
+N-Air,13,59,6,Autocancels on frame 1-2 and 54 onward 
+F-Air,14,41,10,Autocancels on frame 1-4 and 42 onward
+B-Air,19,54,11,Autocancels on frame 1-2 and 43 onward
+U-Air,14/24,54,9,Autocancels on frame 1-3 and 53 onward
+D-Air,14/23,60,14,Autocancels on frame 1-2 and 52 onward
+Monado Arts,,,,"Takes 4 frames to activate an art upon selection.
+14 I-frames upon activating an Art. Activation animation cancellable on frame 10
+Arts last for approx 6 seconds and with an 18 second individual cooldown"
+Back Slash,22,71,40,Hits directly above Shulk at frame 22. Total frames is for level ground
+Air Slash,10,,30,Transitions to second slash as early as frame 20
+Air Slash 2,9,,30,
+Vision,,69,,Invulnerable on frame 6. Counters on 7-41 when fresh.
+Vision (activated),?,?,,
+Vision (reversal),?,?,,
+Grab,7,36,,
+Dash Grab ,10,44,,
+Pivot Grab,11,39,,
+Forward Throw,15/16,37,,
+Back Throw,18/20,45,,
+Up Throw,20/22,47,,
+Down Throw,23/25,43,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17 
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,49,10,Invulnerable on frame 3-30 
+Dir. AD (down),,68,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,77,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,83,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,95,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,107,11-19,Invulnerable on frame 3-21

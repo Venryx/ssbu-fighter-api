@@ -1,0 +1,35 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Buster,7/19/31,35/47/59,,"Cannon and projectile hits generate on same frame. In the air, total frames are reduced by 2."
+U-Tilt,6,70/52,,Total frames refer to use on level ground/over an edge. Invulnerable on frame 5-7
+D-Tilt,5,46,,Leg intangibility on frame 3-12
+Dash Attack,8/11/14/17/20/23/26/36,60,,
+F-Smash ,19,54,,Charge hold is frame 9
+U-Smash,8/11/15/19/23/27/31,68,,Charge hold is frame 4
+D-Smash,17,78,,Charge hold is frame 4
+F-Air,9,40,11,Autocancels on frame 1-2 and 39 onward
+B-Air,4/7/10,44,20,Autocancels on frame 1-3 and 40 onward
+U-Air,11/14/17/20/23...,53,20,Autocancels on frame 51 onward
+D-Air,23,64,14,Autocancels on frame 1-4 and 55 onward
+Metal Blade,16,42,,Projectile hits every six frames. Add 2 to startup and total frames when throwing backward
+Crash Bomber,19,44,,
+Rush Coil,,41,,Invulnerable on frame 7-10. Rush dissapears at Frame ~130
+Leaf Shield,7-,34,,"Hits every 11 frames. Leaves do not disappear after hitting something
+Hold the button to move with the shield. Can delay 40 frames before an automatic throw"
+Leaf Shield (throw),,53,,Can no longer grab or shield with leaf shield active. Can now run with the leaf shield active.
+Grab,6,37,,
+Dash Grab ,9,45,,
+Pivot Grab,10,40,,
+Forward Throw,10,32,,
+Back Throw,18,43,,
+Up Throw,12,39,,
+Down Throw,17,39,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,45,10,Invulnerable on frame 3-30 
+Dir. AD (down),,63,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,70,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,76,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,84,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,98,11-19,Invulnerable on frame 3-21

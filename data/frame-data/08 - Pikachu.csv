@@ -1,0 +1,38 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab ,2,17,,Transitions to next jab as early as frame 7,1.4 / 1.2,4/4,3/2,,-12/-13
+F-Tilt,6,29,,,9.0 / 8.0 / 10.0,11/11/12,9/8/10,neutral/down/up,-14/-15/-13
+U-Tilt,7,26,,,5.0,6,6,,-13
+D-Tilt,7,18,,,6.0,6,6,,-5
+Dash Attack,6,35,,,11.0 / 6.0,13/9,17/10,Early/Late,-12
+F-Smash ,15,53,,Charge hold is frame 9,15.0 / 18.0 / 12.0,15/15/13,9/12/8,Early/late/latest,-29
+U-Smash,10,44,,Charge hold is frame 2,14.0 / 13.0 / 11.0,10/9/8,10/9/8,Close/far/late,-24
+D-Smash,8/11/14/17/20/23,65,,Charge hold is frame 2,2.0 / 3.0,7/7,3/3,multi final,-39
+N-Air,3/9/15/21,38,9,Autocancels on frame 37 onward,1.7 / 3.5,7/8,2/2,multi/final,-7
+F-Air,11/14/17/20/23/27,41,12,Autocancels on frame 1-4 and 32 onward,1.3 / 4.8,6/13,2/3,multi/final,-10/-9
+B-Air,4/8/12/16/20/24,43,18,Landing hit on frame 1. Autocancels on frame 1-3 and 38 onward,1.0 / 3.5 / 4.0,4/11/5,2/2/5,multi/final/landing,-12
+U-Air,4,26,14,Autocancels on frame 1-3 and 18 onward,6.0 / 4.0,6/5,3/3,Early/late,-11/-11
+D-Air,14,47,22,Landing hit on frame 1. Autocancels on frame 38 onward,13.0 / 12.0 / 4.0,14/13/8,5/5/5,Early/late/landing,-16
+Thunder Jolt,19,51,,,6.0 / 4.8,9/9,3/3,arc/air version,-20
+Skull Bash (uncharged) (ground/air),18/18,96/74,,"Startup is 10 on release. On hit endlag is 21 frames.
+On level ground, total frames is 96, 74 in the air.",10.0 - 21.4,8 - 13,10 - 19,,-11 to -2
+Quick Attack (one/two dashes),15/30,52/66,24,Total frames assumes you end on the ground.,3.0 / 2.0,7/7,3/3,Early/late,-33
+Thunder (projectile/Discharge),13/34,86/74,,"First total frames is when the thunder bolt misses you. 
+Invulnerable on frame 34-43 if bolt hits you.",8.0 / 15.0,11/15,3/14,,-26
+Grab,7,36,,,,,,,
+Dash Grab ,11,44,,,,,,,
+Pivot Grab,12,39,,,,,,,
+Forward Throw,11/15/19/23/30,43,,,,,,,
+Back Throw,26,49,,,,,,,
+Up Throw,14/16,35,,,,,,,
+Down Throw,29,51,,,,,,,
+,,,,,,,,,
+Spot Dodge,,19/24,,Invulnerable on frame 3-16 ,,,,,
+Forward Roll,,28,,Invulnerable on frame 4-14,,,,,
+Back Roll,,33,,Invulnerable on frame 4-15 ,,,,,
+Neutral Air Dodge,,50,10,Invulnerable on frame 2-26 ,,,,,
+Dir. AD (down),,69,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (diagonally down),,76,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (left or right),,85,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (diagonally up),,97,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (up),,109,11-19,Invulnerable on frame 2-19,,,,,
+,,,,Invulnerable on frame 2-19,,,,,

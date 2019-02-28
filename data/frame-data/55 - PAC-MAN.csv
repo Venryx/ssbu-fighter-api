@@ -1,0 +1,38 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,4,19,,Transitions to jab 2 as early as frame 7
+Jab 2,4,21,,Transitions to jab 3 as early as frame 7 
+Jab 3,4,33,,
+F-Tilt ,5,30,,
+U-Tilt,7,24,,Arm intangibile on frame 7-10
+D-Tilt,7,26,,
+Dash Attack,10/19/28/37,45,,
+F-Smash ,16,52,,Charge hold is frame 4
+U-Smash,11/15,49,,Charge hold is frame 4
+D-Smash,15,54,,Charge hold is frame 3
+N-Air,3,51,7,Autocancels on frame 1-2 and 45 onward
+F-Air,5,25,10,Autocancels on frame 26 onward
+B-Air,9,40,13,Autocancels on frame 1-8 and 36 onward
+U-Air,9,36,10,Autocancels on frame 32 onward
+D-Air,6/13/20/27,49,12,Autocancels on frame 50 onward
+Bonus Fruit (throw),12 (+7),41,,"7 frames to enter charge state. 4 frames to cancel charge with shield. 
+Fruits are Cherry (8), Strawberry (20), Lemon (32), Apple (52), Melon (72), Galaga (92), Bell (112), Key (132)"
+Power Pellet (travel | Dash),24-42 | 35-53,83-118,,
+Pac-Jump,4,,30,Trampoline appears on frame 10 and is unblockable.
+Fire Hydrant,12,34,,
+Grab,12,58,,
+Dash Grab ,14,66,,
+Pivot Grab,15,61,,
+Forward Throw,13,33,,
+Back Throw,25,59,,
+Up Throw,18,37,,
+Down Throw,16/24/32/34,64,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15 
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,55,10,Invulnerable on frame 3-29 
+Dir. AD (down),,78,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,87,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,96,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,111,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,130,11-19,Invulnerable on frame 3-21

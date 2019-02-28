@@ -1,5 +1,4 @@
 bin/
-data/
 credentials.json
 secrets.env
 *.bin

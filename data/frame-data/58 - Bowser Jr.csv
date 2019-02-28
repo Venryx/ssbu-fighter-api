@@ -1,0 +1,43 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,4,19,,Transitions to jab 2 as early as frame 7
+Jab 2,4,29,,Transitions to rapid jab as early as frame 7 
+Rapid Jab,4/7/10...,,,
+Rapid Finisher,7,43,,
+F-Tilt ,7,31,,
+U-Tilt,7,32,,
+D-Tilt,4/12/23,40,,
+Dash Attack,8/11/14/17/20/25,47,,
+F-Smash ,18/21/24/27/30/35,55,,Charge hold is frame 5
+U-Smash,7/9/12/15/18/22,53,,Charge hold is frame 4
+D-Smash,15,59,,Charge hold is frame 2
+N-Air,7,43,9,Autocancels on frame 1-6 and 42 onward
+F-Air,10,43,16,Landing hit on frame 2. Autocancels on frame 1-2 and 34 onward
+B-Air,12,45,14,Autocancels on frame 1-11 and 30 onward
+U-Air,6,25,9,Autocancels on frame 16 onward
+D-Air,15/18/21/24/27/30/33/36/39,56,15,Landing hit on frame 1. Autocancels on frame 55 onward
+Clown Cannon,37-97,72-132,,
+Clown Kart Dash,23,,,"Damage based heavy armor begins on frame 20.
+Kart Jump can be cancelled into any attack on any frame but 
+is otherwise a 33 frame animation."
+Clown Kart Dash (spinout),3,58,,
+Abandon Ship,21/56,,26,
+Abandon Ship (hammer),8,39,37,
+Mechakoopa,,67,,Mechakoopa activates on frame 48
+Grab,11,40,,
+Dash Grab ,14,48,,
+Pivot Grab,15,43,,
+Forward Throw,14/16,34,,
+Back Throw,24,61,,
+Up Throw,18,37,,
+Down Throw,16/21/26/31/36/41/46/50,77,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15 
+Back Roll,,34,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,48,10,Invulnerable on frame 3-30 
+Abandon Ship Air Dodge,,33,33,Invulnerable on frame 3-30.
+Dir. AD (down),,67,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,77,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,82,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,93,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,108,11-19,Invulnerable on frame 3-21

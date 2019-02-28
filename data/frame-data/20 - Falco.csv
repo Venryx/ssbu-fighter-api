@@ -1,0 +1,43 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab ,2,22,,Transitions to Jab 2 as early as frame 5.,1.5,7,3,,-17
+Jab 2,3,25,,Transitions to Rapid Jab as early as frame 7.,1.5,7,3,,-19
+Rapid Jab,5/7/9...,,,,0.3,4,3,,
+Rapid Finisher,5,40,,,3.0,10,4,,-31
+F-Tilt,6,24,,,6.0,6,6,,-12
+U-Tilt,5/12,29,,,3.5 / 2.7 / 4.0,5/5/8,4/4/5,"first early/first 
+late/second",-12
+D-Tilt,10,31,,,13.0 / 12.0 / 10.5,9/9/8,12/11/10,Close/far/farthest,-9/-10/11
+Dash Attack,8,39,,,9.0 / 6.0,7/6,9/6,Early/late,-22
+F-Smash ,17,48,,Charge hold is frame 9,16.0,10,11,,-20
+U-Smash,7/13,49,,Leg intangibility on frame 7-18. Charge hold is frame 3,4.0 / 13.0,5/12,4/9,,-27
+D-Smash,8,46,,Leg intangibility on frame 3-8. Charge hold is frame 1,15.0,10,10,,-28
+N-Air,3/6/10/19,48,9,Autocancels on frame 1-2 and 43,3.0 / 2.0 / 4.0,5/4/11,2/2/3,first/multi/final,-7/-6
+F-Air,7/11/15/19/23/26,49,15,Landing hit on frame 1. Autocancels on frame 1-4 and 42 onward,1.0 / 4.0 / 3.0,4/14/10,2/3/4,multi/final/landing,-10
+B-Air,9,37,13,Autocancels on frame 1-3 and 20 onward,13.0 / 7.0,9/7,5/3,Early/late,-8/-10
+U-Air,7,33,9,Autocancels on frame 1-3 and 23 onward,9.0,7,4,,-5
+D-Air,10,51,14,Autocancels on frame 1-3 and 30 onward,13.0 / 8.0,12/7,5/4,Early/late,-9/-10 
+Blaster (ground/air),8/7,41/38,,fire rate of one shot per 26 frames.,3.0,7,2,,-24/-22
+Falco Phantasm (ground/air),18/18,55/66,16,"A frame 18 hit is impossible unless unnaturally inside of an opponent.
+Endlag is 31 when blocked on the ground, and 24 from the air at lowest possible altitude
+Falco does not suffer hitlag from this attack",7.0,9/7,3/3,,-19/-14
+Fire Bird,"20/26/28/30/32/34/36/38/
+44/49/51/53/55/57/59/61",85,18,"Starts traveling on 44. That hit is the only one that deals 3 damage.
+Total frames assumes travel along the ground",2.0 / 3.0,4,3,,-21
+Reflector,5,44,,Reflects on frame 1-33,5.0,9,6,,-33
+Grab,6,34,,,,,,,
+Dash Grab ,9,42,,,,,,,
+Pivot Grab,10,37,,,,,,,
+Forward Throw,10/12,33,,,,,,,
+Back Throw,9,41,,Victim thrown at 9. Shoots blaster on 18.,,,,,
+Up Throw,7,38,,Victim thrown at 7. Shoots blaster on 18.,,,,,
+Down Throw,26/33,43,,,,,,,
+,,,,,,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17 ,,,,,
+Forward Roll,,29,,Invulnerable on frame 4-15 ,,,,,
+Back Roll,,34,,Invulnerable on frame 5-16,,,,,
+Neutral Air Dodge,,43,10,Invulnerable on frame 2-27 ,,,,,
+Dir. AD (down),,61,11-19,Invulnerable on frame 2-20,,,,,
+Dir. AD (diagonally down),,67,11-19,Invulnerable on frame 2-20,,,,,
+Dir. AD (left or right),,73,11-19,Invulnerable on frame 2-20,,,,,
+Dir. AD (diagonally up),,85,11-19,Invulnerable on frame 2-20,,,,,
+Dir. AD (up),,94,11-19,Invulnerable on frame 2-20,,,,,

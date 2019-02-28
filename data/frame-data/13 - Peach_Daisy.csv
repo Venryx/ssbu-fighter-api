@@ -1,0 +1,40 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,2,27,,Transitions to Jab 2 as early as frame 7.,2.0,5,3,,-22
+Jab 2,2,29,,,3.0,9,4,,-23
+F-Tilt,7,36,,,7.0 / 8.0,7/7,7/8,Close/far,-22/-21
+U-Tilt,9,37,,,8.0 / 10.0,7/8,8/10,Close/far,-20/-18
+D-Tilt,8,23,,,7.0,7,7,,-8
+Dash Attack,6/17,37,,First hit blockstrings into second hit,4.0 / 6.0,5/7,-/6,,-14
+F-Smash ,15,45,,Can now make directional inputs to change weapon. Charge hold is frame 5.,15.0 / 13.5 / 18.0,10/10/11,10/9/12,Golf/tennis/pan,-20/-21/-18
+U-Smash,14,44,,Head and arm intangibility on frame 14-20. Charge hold is frame 9,12.0 / 17.0,10/11,10/11,Close/far,-20/-19
+D-Smash,6/10/14/18/22/26/30,54,,Charge hold is frame 2,2.0 / 3.0,4/15,3/3,Multi/final,-21
+N-Air,5,48,7,Autocancels on frame 1-4 and 36 onward,13.0 / 6.0,9/6,5/3,Early/Late,-2/-4
+F-Air,16,57,13,Autocancels on frame 1-9 and 41 onward,14.0 / 15.0,10/10,5/5,Close/far,-8/-8
+B-Air,6,53,11,Autocancels on frame 1-4 and 30 onward,12.0 / 7.0,9/7,5/3,Early/Late,-6/-8
+U-Air,10/15,45,7,Autocancels on frame 1-4 and 41 onward,4.0 / 6.0,6/7,3/3,,-4/-4
+D-Air,12/18/24/30,38,8,Autocancels on frame 1-11 and 38 onward,2.0 / 5.0,4/6,2/3,Multi/Final,-6/-5
+Toad,,62,,Counter window 9-34 from 10-35. Also invulnerable on frame 8.,,,,,
+Toad (attack),2/6/8/12/14/17,59,,,,,,,
+Peach Bomber,15,62/87,,"Startup is 2 upon reaching a target. 18 endlag on hit. Total frames is 62 on 
+level ground when you miss. And 87 if you miss and go over an edge",12.0,9,11,,-7
+Peach Bomber (air),13,87,35,Startup is 2 upon reaching a target. 18 endlag on hit.,12.0,9,11,,-7
+Peach Parasol,7/11/16/21/26/31,,26/40,40 landing lag from special fall. Or 26 if still holding umbrella,3.0 / 1.0 / 4.0,5/4/15,4/2/5,First/multi/final,
+Vegetable,,36,,"Turnip damage depends both on the type and how it is thrown. 
+Z-Drop damage depends on distance fallen.",8.3 - 27.6,7-15,3-8,,
+Grab,6,36,,,,,,,
+Dash Grab ,9,44,,,,,,,
+Pivot Grab,10,39,,,,,,,
+Forward Throw,14/16,39,,,,,,,
+Back Throw,20/21,48,,,,,,,
+Up Throw,19/26,49,,,,,,,
+Down Throw,34/43,64,,,,,,,
+,,,,,,,,,
+Spot Dodge,,21/26,,Invulnreable on frame 3-17,,,,,
+Forward Roll,,30,,Invulnerable on frame 4-15 ,,,,,
+Back Roll,,35,,Invulnerable on frame 5-16,,,,,
+Neutral Air Dodge,,61,10,Invulnerable on frame 3-30,,,,,
+Dir. AD (down),,86,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,92,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,103,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,124,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,141,11-19,Invulnerable on frame 3-21,,,,,

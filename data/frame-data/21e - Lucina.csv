@@ -1,0 +1,45 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab ,5,25,,Transitions to Jab 2 as early as frame 11.,3.3,7,4,,-16
+Jab 2,4,28,,,4.7,7,5,,-19
+F-Tilt,8,33,,,11.0,8,10,,-15
+U-Tilt,6,33,,,7.6 / 8.0,7/7,8/8,Early/Late,-19
+D-Tilt,7,23,,,8.5,7,8,,-8
+Dash Attack,13,49,,,10.9,8,15,,-21
+F-Smash ,10,51,,Charge hold is frame 2.,15.0,10,10,,-31
+U-Smash,13,58,,Launcher and sword hits generate on the same frame. Charge hold is frame 9,3.0 / 14.2,0/10,4/10,Body/sword,-41/-35
+D-Smash,6/21,55,,Charge hold is frame 3.,9.5 / 14.0,8/10,7/10,,-42/-24
+N-Air,6/15,49,7,Autocancels on frame 47 onward,4.2 / 8.5,5/7,3/4,,-4/-3
+F-Air,6,37,10,Autocancels on frame 36 onward,10.5,8,4,,-6
+B-Air,7,39,10,Autocancels on frame 1-2 and 32 onward,11.8,9,5,,-5
+U-Air,5,45,8,Autocancels on frame 1-2 and 38 onward,11.4,8,5,,-3
+D-Air,9,59,14,Autocancels on frame 1-2 and 55 onward,12.3 / 14.2,9/12,5/5,sour/meteor,-9/-9
+Shieldbreaker,19-78,50-109,,"On release, startup is 8 and total frames is 39",8.5 - 23.0,13-18,8-,,-23 to shieldbreak
+Dancing Blade 1,9,39/29,,Second total frames is the air version. Can transition to next slash on frame 12,2.8,5,4,,-26/-16
+Dancing Blade 2 Neutral,5,38,,Can transition to next slash on frame 8,2.8,5,4,,-29
+Dancing Blade 3 Neutral,4,43,,Can transition to next slash on frame 7,3.3,5,4,,-35
+Dancing Blade 4 Neutral,7,55,,,4.7,7,5,,-43
+Dancing Blade 2 Up,4,38,,Can transition to next slash on frame 8,2.8,5,4,,-30
+Dancing Blade 3 Up,5,43,,Can transition to next slash on frame 8,3.3,5,4,,-34
+Dancing Blade 4 Up,6,44,,,5.6,6,6,,-32
+Dancing Blade 3 Down,5,43,,Can transition to next slash on frame 8,3.3,5,4,,-34
+Dancing Blade 4 Down,7/10/13/16/19,74,,,2.0 / 4.2,4/5,-/5,Multi/final,-50
+Dolphin Slash,5,,24,Invulnerable on frame 4-5. 1-5 in the air.,11.0 / 7.0,8/7,10/7,Early/Late,
+Counter,,64,,Invulnerable on frame 5. Counter window 6-27.,,,,,
+Counter (attack),4,40,,Invulnerable on frame 1-7 in addition to counter freeze frames.,,,,,
+Grab,6,34,,,,,,,
+Dash Grab ,9,42,,,,,,,
+Pivot Grab,10,37,,,,,,,
+Forward Throw,15,31,,,,,,,
+Back Throw,19,47,,,,,,,
+Up Throw,13,44,,,,,,,
+Down Throw,16,42,,,,,,,
+,,,,,,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17 ,,,,,
+Forward Roll,,29,,Invulnerable on frame 4-15,,,,,
+Back Roll,,34,,Invulnerable on frame 5-16 ,,,,,
+Neutral Air Dodge,,52,10,Invulnerable on frame 3-29,,,,,
+Dir. AD (down),,69,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,79,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,85,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,99,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,116,11-19,Invulnerable on frame 3-21,,,,,

@@ -1,0 +1,42 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,4,23,,Transitions to Jab 2 on frame 7.
+Jab 2,5,26,,Transitions to Jab 3 on frame 10. Rapid on frame 9.
+Jab 3,4,35,,
+Rapid Jab,4/7/10...,,,
+Rapid Finisher,4,45,,
+F-Tilt,10,32,,
+U-Tilt,8,29,,Head and arm intangibility on frame 8-9. Wing intangibility on frame 8-12
+D-Tilt,9,30,,
+Dash Attack,12,39,,
+F-Smash ,18,53,,Charge hold is frame 5
+U-Smash,12,47,,Leg intangibility on frame 12-16. Charge hold is frame 6
+D-Smash,24,57,,Charge hold is frame 2
+N-Air,8,39,12,Autocancels on frame 1-2 and 28 onward
+F-Air,10/13/16,41,16,Autocancels on frame 1-2 and 43 onward
+B-Air,10,43,17,Autocancels on frame 38 onward
+U-Air,11,39,14,Autocancels on frame 1-3 and 35 onward
+D-Air,11,55,32,Autocancels on frame 1-3 and 50 onward
+Plasma Breath (uncharged | full charge),29 | 56/65/73/84/92,55 | 102,,"If Ridley is hit in the mouth while charging on frame 16-45, he recoils in a 52 frame animation."
+Space Pirate Rush ,22,78,,
+Space Pirate Rush (air),22,60,,"Landing hitbox on frame 1 after a grab, then transitions to ground drag"
+Space Pirate Rush (success),10/24/28/32...,,,Drag begins on 24. Deals damage every four frames. 
+SPR (manual/ledge/air release),2/7/2,41/42/41,,Can manually release on 48 on the ground. 43 in the air.
+Wing Blitz,37,95,32/35,Second landing lag is for a dive into the ground. Wing intangibility on frame 37-60
+Skewer,30/37,96/67,,Total frames is 67 when you miss.
+Grab,8,34,,
+Dash Grab ,11,42,,
+Pivot Grab,12,39,,
+Forward Throw,13,37,,
+Back Throw,18,45,,
+Up Throw,14/19,43,,
+Down Throw,25,38,,
+,,,,
+Spot Dodge,,23/28,,Invulnerable on frame 3-18
+Forward Roll,,32,,Invulnerable on frame 4-16
+Back Roll,,37,,Invulnerable on frame 5-17
+Neutral Air Dodge,,46,10,Invulnerable on frame 3-31
+Dir. AD (down),,64,11-19,Invulnerable on frame 3-22
+Dir. AD (diagonally down),,73,11-19,Invulnerable on frame 3-22
+Dir. AD (left or right),,78,11-19,Invulnerable on frame 3-22
+Dir. AD (diagonally up),,90,11-19,Invulnerable on frame 3-22
+Dir. AD (up),,103,11-19,Invulnerable on frame 3-22

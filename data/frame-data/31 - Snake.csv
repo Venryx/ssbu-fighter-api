@@ -1,0 +1,44 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,3,15,,Transitions to jab 2 as early as frame 6
+Jab 2,4,24,,Transitions to jab 3 as early as frame 7
+Jab 3,8,46,,
+F-Tilt 1,4,31,,Transitions to Ftilt 2 as early as frame 10
+F-Tilt 2,8,39,,
+U-Tilt,6,37,,
+D-Tilt,6,30,,
+Dash Attack,5,41,,Arm intangibility on frame 5-12
+F-Smash,41,73,,Charge hold is frame 38
+U-Smash,11/35,50,,Charge hold is frame 24
+D-Smash,8/20,44,,Charge hold is frame 5
+N-Air,10/18/26/36,59,16,Autocancels on frame 1-3 and 50 onward
+F-Air,23,69,19,Autocancels on frame 1-3 and 63 onward
+B-Air,7,42,19,Autocancels on frame 40 onward
+U-Air,10,47,15,Autocancels on frame 1-4 and 36 onward
+D-Air,3/10/17/25,59,20,Autocancels on frame 54 onward
+Hand Grenade (neutral throw),8,27,,Pull Pin animation takes 21 frames. Grenades explode on roughly frame 150
+Hand Grenade (smash throw),10,30,,Explosive generates on frame 1.
+Hand Grenade (underhand throw),9,25,,
+Remote Missile,41,,,Takes 27 frames to cancel with shield. 29 frame fist pump animation after a hit.
+Cypher,,,,Heavy armor begins on frame 7. Frame 47 is the earliest you can cancel the move.
+C4 (Sticky),9,24,,
+C4 (Air Sticky),9,32,,
+C4 (plant on the ground),14,33,,
+C4 (air drop),16,32,,
+C4 (detonation),26,32,,
+Grab,8,34,,
+Dash Grab ,11,42,,
+Pivot Grab,9,37,,
+Forward Throw,21,39,,
+Back Throw,20,30,,
+Up Throw,22/23,47,,
+Down Throw,35,41,,
+,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17
+Forward Roll,,30,,Invulnerable on frame 4-15
+Back Roll,,35,,Invulnerable on frame 5-16
+Neutral Air Dodge,,47,10,Invulnerable on frame 4-28. 
+Dir. AD (down),,64,11-19,Invulnerable on frame 4-22
+Dir. AD (diagonally down),,75,11-19,Invulnerable on frame 4-22
+Dir. AD (left or right),,81,11-19,Invulnerable on frame 4-22
+Dir. AD (diagonally up),,99,11-19,Invulnerable on frame 4-22
+Dir. AD (up),,108,11-19,Invulnerable on frame 4-22

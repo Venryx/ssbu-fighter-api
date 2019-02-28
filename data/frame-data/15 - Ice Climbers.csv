@@ -1,0 +1,45 @@
+,,,,,"Note: In general, when both Climbers are together, the AI's attacks land seven frames later.
+The Climbers share frame data on attacks, but if one climber hits something, the
+other will delay their attack, essentially sharing in the hitlag in order to stay at a comparable
+level of desync. The Hitlag Delay column illustrates that amount of freeze.",Player | AI,Player | AI,Player | AI,,Alone | Both
+,Startup,Total Frames,Landing Lag,Hitlag delay,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,4,27,,3,Transitions to Jab 2 as early as frame 10.,2.0 | 1.5,6 | 6,3 | 3,,-20 | -15
+Jab 2,4,29,,7,,3.5 | 2.6,9 | 9,4 | 4,,-21 | -12
+F-Tilt,9,32,,5,,9.0 | 6.7,7 | 6,9 | 7,,-14 | -10
+U-Tilt,8/11/14/17/20/23/27,48,,?,,"0.8 / 4.5 | 
+0.6 / 3.0",4/11 | 4/10,2/5 | 2/4,,-16 | -10
+D-Tilt,8,30,,4,,6.0 | 4.5,6 | 5,6 | 5,,-16 | -10
+Dash Attack,11,41,,4,,6.0 | 4.5,6 | 5,6 | 5,,-24 | -18
+F-Smash ,11,46,,6,Charge hold is frame 4,12.0 | 9.0,9 | 7,8 | 7,,-27 | -22
+U-Smash,12,49,,6,Charge hold is frame 7,11.0 | 8.2,8 | 7,8 | 6,,-29 | -24
+D-Smash,9/16,40,,7,Charge hold is frame 4,13.0 | 9.7,9/8,9/7,,-22/-17
+N-Air,6,45,7,5,Autocancels on frame 1-5 and 30 onward,7.0 | 5.2,7 | 6,3 | 3,,-4 | +2
+F-Air,19,56,10,6,Autocancels on frame 1-2 and 49 onward,12.0 | 9.0,9 | 7,5 | 4,,-5 | +3
+B-Air,8,35,7,6,Autocancels on frame 1-7 and 19 onward,10.0 | 7.5,8 | 7,4 | 3,,-3 | +0
+U-Air,7,35,14,5,Autocancels on frame 1-6 and 27 onward,9.0 | 6.7,7 | 6,4 | 3,,-10 | -3
+D-Air,12,63,20,5,Autocancels on frame 54 onward,8.0 | 6.0,7 | 6,4 | 3,,-16 | -12
+Ice Shot,18/19,55,,0,Second startup value is the melee attack. Climber does not suffer hitlag from it either,"3.5 / 3.5 |
+3.5 / 3.5",5,2,,-29 | -24
+Squall Hammer (alone),10/13/15/22/29/33/38/43/50,77,29,0,Landing lag only occurs if you enter special fall.,1.2 / 2.0,4/4,3/3,,-24  
+Squall Hammer (both),10/14/18/23/28/34/40/51,77,29,0,,2.0 / 4.0,4/8,3/5,,-21  
+Belay,16,,30,0,"Hitting somebody with this move reduces its height gain for your climber.
+The AI is invulnerable frame 1-15 and invincible frame 16-33",16.0,10,14,,
+Blizzard,16/21/26/31/36/41/46/51/56,84,,0,,1.7 | 1.7,4,2,,-22 | -15
+Grab,8,39,,,,,,,,
+Dash Grab ,10,47,,,,,,,,
+Pivot Grab,10,40,,,,,,,,
+Pummel,1,6,,5,,,,,,
+Forward Throw,24/25,49,,,,,,,,
+Back Throw,18,39,,,,,,,,
+Up Throw,25/27,52,,,,,,,,
+Down Throw,37,49,,,,,,,,
+,,,,,,,,,,
+Spot Dodge,,20/25,,,Invulnerable on frame 3-17,,,,,
+Forward Roll,,29,,,Invulnerable on frame 4-15,,,,,
+Back Roll,,34,,,Invulnerable on frame 5-16,,,,,
+Neutral Air Dodge,,58,10,,Invulnerable on frame 3-28.,,,,,
+Dir. AD (down),,81,11-19,,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,86,11-19,,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,96,11-19,,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,115,11-19,,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,129,11-19,,Invulnerable on frame 3-21,,,,,

@@ -1,0 +1,37 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,5,16,,Transitions to Jab 2 as early as frame 7.,3.0,6,4,,-7
+Jab 2,5,19,,,3.0,9,4,,-10
+F-Tilt,7,24,,,10.0,8,10,,-7
+U-Tilt,9,24,,,9.0 / 8.0,7/7,9/8,Early/Late,-6
+D-Tilt,10,30,,,10.0,8,10,,-10
+Dash Attack,5,39,,,12.0 / 8.0,9/7,11/8,Early/Late,-23
+F-Smash ,16,49,,Charge hold is frame 4,16.0 / 14.0,10/10,11/10,Early/Late,-22
+U-Smash,16,45,,Charge hold is frame 8,15.0,10,10,,-19
+D-Smash,14,48,,Charge hold is frame 4,11.0,8,8,,-26
+N-Air,6,43,9,Autocancels on frame 1-3 and 40 onward,11.0 / 6.0,8/6,4/3,Early/Late,-5/-6
+F-Air,8,36,9,Autocancels on frame 1-3 and 28 onward,9.0 / 6.0,7/6,4/3,Early/Late,-5/-6
+B-Air,10,37,11,Autocancels on frame 1-3 and 26 onward,13.0,11,5,,-6
+U-Air,9,39,9,Autocancels on frame 1-3 and 35 onward,9.0,7,4,,-5
+D-Air,7/10/13/16/19/22/25/28/31,52,15,Autocancels on frame 45 onward,1.5 / 2.0,4/10,2/2,Mult/Final,-13
+Rollout,~40/~60,,,"Reaches full charge at about frame 60. Partial charge at about 40. Endlag on hit is 52 on level ground. 
+Jigglypuff is helpless if she does not land or grab an edge after a hit, but she will pass through shields",10.0 - 20.0,9-12,11-18,,
+Pound,13,39,,,11.0,8,10,,-16
+Sing,27/61/100,149,,,,,,,
+Rest,2,209,,Invulnerable on frame 1-27,20.0,12,18,,-189
+Grab,6,32,,,,,,,
+Dash Grab ,9,39,,,,,,,
+Pivot Grab,10,34,,,,,,,
+Forward Throw,10/12,35,,,,,,,
+Back Throw,26,49,,,,,,,
+Up Throw,9,37,,,,,,,
+Down Throw,60/62,84,,,,,,,
+,,,,,,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17,,,,,
+Forward Roll,,30,,Invulnerable on frame 4-15,,,,,
+Back Roll,,35,,Invulnerable on frame 5-16,,,,,
+Neutral Air Dodge,,74,10,Invulnerable on frame 4-32,,,,,
+Dir. AD (down),,102,11-19,Invulnerable on frame 4-22,,,,,
+Dir. AD (diagonally down),,112,11-19,Invulnerable on frame 4-22,,,,,
+Dir. AD (left or right),,122,11-19,Invulnerable on frame 4-22,,,,,
+Dir. AD (diagonally up),,152,11-19,Invulnerable on frame 4-22,,,,,
+Dir. AD (up),,174,11-19,Invulnerable on frame 4-22,,,,,

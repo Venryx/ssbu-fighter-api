@@ -1,0 +1,58 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,5,20,,Transitions to jab 2 as early as frame 9
+Jab 1 (Luma),4,,,
+Jab 2,6,24,,Transitions to jab 3 as early as frame 13
+Jab 2 (Luma),6,,,
+Jab 3,7,35,,
+Jab 3 (Luma),7,,,
+Rapid Jab,5/8/11...,,,
+Rapid Jab (Luma),3/6/9...,,,
+Rapid Finisher,5,38,,
+Rapid Finisher (Luma),5,,,
+F-Tilt ,7,37,,
+F-Tilt (Luma),8,,,
+U-Tilt,7,40,,Head Intangible on frame 4-10
+U-Tilt (Luma),3,,,
+D-Tilt,5,32,,
+D-Tilt (Luma),8,,,
+Dash Attack,6/17,40,,
+Dash Attack (Luma),6,,,
+F-Smash ,16,51,,Charge hold is frame 9
+F-Smash (Luma),17,,,Charge hold is frame 9
+U-Smash,8,47,,Head intangible on frame 7-16. Charge hold is frame 3
+U-Smash (Luma),10,,,Charge hold is frame 3
+D-Smash,6/17,41,,Charge hold is frame 3
+D-Smash (Luma),7/19,,,
+N-Air,9,43,8,Autocancels on frame 1-4 and 33 onward
+N-Air (Luma),7/13,,,
+F-Air,10/13/16/19/22,59,16,Autocancels on frame 1-3 and 50 onward
+F-Air (Luma),11,,,
+B-Air,9,54,10,Autocancels on frame 1-3 and 50 onward
+B-Air (Luma),10,,,
+U-Air,8,49,11,Autocancels on frame 45 onward
+U-Air (Luma),6,,,
+D-Air,17,49,12,Autocancels on frame 50 onward
+D-Air (Luma),15,,,
+Luma Shot,10-91,34-115,,"4 startup and 28 total frames from charge state. Takes 6 frames to
+enter charge state. 87 frames to reach full charge. "
+Luma Recall,,21/23,,Second total frames is in the air.
+Star Bits,10/16/22,51,,
+Launch Star,,,30,
+Gravitational Pull,,39,,Pulls on frame 2-29
+Grab,7,39,,
+Dash Grab ,10,46,,
+Pivot Grab,11,41,,
+Forward Throw,28,37,,
+Back Throw,30,42,,
+Up Throw,13,37,,
+Down Throw,13,35,,
+,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17
+Forward Roll,,30,,Invulnerable on frame 4-15 
+Back Roll,,35,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,62,10,Invulnerable on frame 3-29 
+Dir. AD (down),,86,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,94,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,105,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,124,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,144,11-19,Invulnerable on frame 3-21

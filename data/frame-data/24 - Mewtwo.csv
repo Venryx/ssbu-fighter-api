@@ -1,0 +1,39 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab ,6,22,,Transitions to Rapid Jab as early as frame 12.
+Rapid Jab,5/8/11...,,,
+Rapid Finisher,6,40,,
+F-Tilt,10,35,,
+U-Tilt,8,29,,
+D-Tilt,6,23,,
+Dash Attack,10,38,,
+F-Smash,19,52,,Charge hold is frame 12
+U-Smash,9/14/18/22,68,,Charge hold is frame 2
+D-Smash,21,43,,Charge hold is frame 15
+N-Air,7/11/15/19/23/27,49,10,Autocancels on frame 46 onward
+F-Air,7,39,8,Autocancels on frame 37 onward
+B-Air,13,39,10,Autocancels on frame 1-2 and 38 onward
+U-Air,10,39,8,Autocancels on frame 1-2 and 36 onward
+D-Air,15,47,11,Autocancels on frame 1-3 and frame 42 onward
+Shadow Ball (partial charge),9 (+12),31,,9 startup from charge state. 12 to enter charge state. Takes 4 frames to cancel charge with shield. 
+Shadow Ball (full charge),18,43,,123 frames to reach full charge.
+Confusion,12/21/23/25/27/29/31/33/39,39/44,,"Grab is on frame 12, the following hits are when successful. 44 total frames when you miss.
+"
+Teleport,,44,30,Total frames is if you end on the ground. Intangible from 9-19.
+Disable,16,52,,
+Grab,7,39,,
+Dash Grab ,10,47,,
+Pivot Grab,11,42,,
+Forward Throw,19/33/40/47/54/61,81,,"Fires shadow balls on 33,40,47,54, and 61."
+Back Throw,30,54,,
+Up Throw,43,79,,
+Down Throw,16/18,45,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17 
+Forward Roll,,29,,Invulnerable on frame 4-15 
+Back Roll,,34,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,51,10,Invulnerable on frame 3-26 
+Dir. AD (down),,70,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,79,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,85,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,101,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,114,11-19,Invulnerable on frame 3-21

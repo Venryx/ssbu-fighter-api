@@ -1,0 +1,41 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,4,23,,Transitions to Jab 2 as early as frame 9
+Jab 2,3,27,,Transitionst to jab 3 as early as frame 9
+Jab 3,5,40,,This attack only hits directly above ike on frame 5.
+F-Tilt ,12,41,,
+U-Tilt,11,39,,
+D-Tilt,7,28,,
+Dash Attack,15,47,,
+F-Smash,31,83,,This attack only hits directly above Ike on frame 31. Charge hold is frame 24
+U-Smash,25,70,,Charge hold is frame 11
+D-Smash,13/32,70,,Charge hold is frame 5
+N-Air,10,59,8,Autocancels on frame 1-2 and 50 onward
+F-Air,11,59,14,Autocancels on frame 42 onward
+B-Air,7,54,11,Autocancels on frame 1-2 and 35 onward
+U-Air,13,56,9,Autocancels on frame 1-5 and 51 onward
+D-Air,16,54,14,Autocancels on frame 1-4 and 48 onward
+Eruption,30-239,78-287,,"On release, startup is 11 and total frames is 59"
+Quick Draw,16,53/34/44,30,"Reaches max charge around 85. Startup is 2 upon reaching a target. Swing total frames
+is 34, or 44 from the air. Landing lag only occurs after entering special fall. 
+Can continue recovery options after an air swing on frame 44"
+Aether,15/44/51//61,,36,"Landing hit on frame 1. Super armor on frame 5-35. (ending the moment
+he ascends). Super armor on frame 15-35 for the air version"
+Counter,,73,,Invulnerable on frame 8. Counters on frame 9-33
+Counter (attack),4,43,,Invulnerable on frame 1-4 in addition to counter freeze frames
+Grab,7,36,,
+Dash Grab ,10,44,,
+Pivot Grab,11,39,,
+Forward Throw,5/7,32,,
+Back Throw,20/22,37,,
+Up Throw,18/20,42,,
+Down Throw,35/40,57,,
+,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17
+Forward Roll,,30,,Invulnerable on frame 4-15
+Back Roll,,35,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,49,10,Invulnerable on frame 4-31
+Dir. AD (down),,66,11-19,Invulnerable on frame 4-22
+Dir. AD (diagonally down),,76,11-19,Invulnerable on frame 4-22
+Dir. AD (left or right),,82,11-19,Invulnerable on frame 4-22
+Dir. AD (diagonally up),,96,11-19,Invulnerable on frame 4-22
+Dir. AD (up),,108,11-19,Invulnerable on frame 4-22

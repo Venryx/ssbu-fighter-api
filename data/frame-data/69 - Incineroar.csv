@@ -1,0 +1,41 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,5,23,,Transitions to jab 2 on frame 8
+Jab 2,4,31,,Transitions to jab 3 on frame 13
+Jab 3,4,37,,
+F-Tilt,12,36,,
+U-Tilt,6,34,,Head intangibility on frame 6-11
+D-Tilt ,9,29,,Leg intangibility on frame 8-12
+Dash Attack,8,41,,
+F-Smash ,16,51,,Charge hold is frame 1
+U-Smash,13,47,,Arm intangibility on frame 13-18. Charge hold is frame 5
+D-Smash,18,57,,Charge hold is frame 1
+N-Air,5,41,11,Autocancels on frame 1-3 and 36 onward
+F-Air,8,44,14,Autocancels on frame 1-6 and 46 onward
+B-Air,7,41,11,Autocancels on frame 1-5 and 36 onward
+U-Air,7,31,8,Autocancels on frame 1-5 and 26 onward
+D-Air,16,44,16,Autocancels on frame 1-3 and 45 onward
+Darkest Lariat,5,84,,"On the ground, Invincible on frame 5-6 and Arm invicibility on frame 7-57"
+Alolan Whip (grab),18,59,,
+Alolan Whip (lariat),7,47,,"Following a grab, successful window for a lariat is frame 43-47. Any later is a failure."
+Alolan Whip (back body drop),8,42,,You can hold the button to guarantee this particular attack
+Alolan Whip (failure),,32,,
+Cross Chop,11/38,,61,landing hitbox on frame 1. Arm intangibility on frame 13-26. Some kind of armor on frame 4-15
+Revenge,,58,,Counter window 3-22. Next attack's damage increased by about 40% when successful
+Revenge (activation),7,28,,Invulnerable on frame 1-13 in addition to counter freeze frames.
+Grab,8,38,,
+Dash Grab ,12,46,,
+Pivot Grab,13,44,,
+Forward Throw,58,81,,
+Back Throw,28/30,51,,
+Up Throw,27,55,,
+Down Throw,22,33,,
+,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17
+Forward Roll,,30,,Invulnerable on frame 4-15
+Back Roll,,35,,Invulnerable on frame 5-16
+Neutral Air Dodge,,44,10,Invulnerable on frame 3-29
+Dir. AD (down),,63,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,72,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,76,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,86,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,96,11-19,Invulnerable on frame 3-21

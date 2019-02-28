@@ -1,0 +1,45 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,3,17,,Transitions to Jab 2 as early as frame 6 ,3.0,7,4,,-10
+Jab 2,3,19,,,4.0,11,5,,-11
+F-Tilt,5,29,,,8.0,7,8,,-16
+U-Tilt,8,31,,,7.0,7,7,,-16
+D-Tilt,8,23,,,5.0 / 4.5 / 4.0,6/6/5,6/6/5,Close/middle/far,-9/-9/-10
+Dash Attack,10,40,,,11.0 / 8.0,8/7,10/8,Early/Late,-20
+F-Smash ,14,52,,Head intangibility on frame 12-16. Charge hold is frame 7,15.5,10,10,,-28
+U-Smash,11,46,,Leg intangibility on frame 11-13. Charge hold is frame 7,14.0 / 12.0,10/9,10/8,Early/late,-24
+D-Smash,7/22,49,,Charge hold is frame 3,12.0 / 10.0,9/8,8/7,Close/Far,-34/-19
+N-Air,3,44,7,Autocancels on frame 1-2 and 38 onward,10.0 / 7.0 /5.0,8/7/6,4/3/3,Early/Late/latest,-3/-4/-4
+F-Air,16,43,12,Autocancels on frame 1-3 and 40 onward,15.0 / 14.0,10/10,5/5,Close/meteor,-7/-7
+B-Air,11/14/18,55,11,Autocancels on frame 1-5 and 44 onward ,3.5 / 5.5,5/9,2/3,Multihit/Final,-9/-8
+U-Air,5,36,8,Autocancels on frame 1-4 and 31 onward,12.0,9,5,,-3
+D-Air,"16/18/20/22/24/26/28/
+30/32/34/36/38/41",56,17,"Landing hit generates on frame 1. Autocancels on frame 50 onward
+","2.2 / 1.9 / 2.7 / 
+1.0",5/4/7/4,-/2/2/2,"Early multi/Late
+multi/final/landing",-14
+Egg Lay ,19,49/41,,"Egg appears on frame 33 when successful.
+Total frames when successful is 62. Total frames is 41 on whiff. ",,,,,
+Egg Roll,32,,,Takes 39 frames to emerge. ,10.8 - 12.8,8-9,10-12,,-29 to -27
+Egg Throw,16,55,,Eggs explode automatically on frame 60.,6.0,6,3,,-30
+Yoshi Bomb,7/27,77,39,"Total frames assumes level ground. Passes through platforms, 
+voluntarily if you fall long enough",4.0 / 15.0 / 4.0,5/10/3,5/14/0,Rising/falling/star,-32
+Yoshi Bomb (air),19,,39,Stars appear on frame 4 of landing.,12.0 / 4.0,9/3,11/0,falling/star,-32
+Grab,14,48,,,,,,,
+Dash Grab ,16,56,,,,,,,
+Pivot Grab,17,51,,,,,,,
+Forward Throw,15,39,,,,,,,
+Back Throw,20,43,,,,,,,
+Up Throw,13,43,,,,,,,
+Down Throw,25,50,,,,,,,
+,,,,,,,,,
+Spot Dodge,,21/26,,Invulnerable on frame 3-17 ,,,,,
+Forward Roll,,30,,Invulnerable on frame 4-15 ,,,,,
+Back Roll,,35,,Invulnerable on frame 5-16 ,,,,,
+Neutral Air Dodge,,58,10,Invulnerable on frame 3-30,,,,,
+Dir. AD (down),,79,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,89,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,107,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,116,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,130,11-19,Invulnerable on frame 3-21,,,,,
+,,,,,,,,,
+,,,,Double Jump Super Armor on frame 1-44,,,,,

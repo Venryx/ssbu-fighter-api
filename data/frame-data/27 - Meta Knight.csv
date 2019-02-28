@@ -1,0 +1,40 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Rapid Jab,4/7/10...,,,
+Rapid Finisher,3,30,,
+F-Tilt 1,6,25,,Transitions to next hit as early as frame 10.
+F-Tilt 2,2,27,,Transitions to next hit as early as frame 7
+F-Tilt 3,2,30,,
+U-Tilt,8,34,,
+D-Tilt,3,18,,
+Dash Attack,7,32,,
+F-Smash,24,41,,Charge hold is frame 20
+U-Smash,8/12/17,49,,Charge hold is frame 3
+D-Smash,4/9,37,,Charge hold is frame 1
+N-Air,6,43,7,Autocancels on frame 1-5 and 40 onward
+F-Air,9/12/15,45,10,Autocancels on frame 44 onward
+B-Air,7/13/20,51,11,Autocancels on frame 1-6 and 40 onward
+U-Air,6,26,9,Autocancels on frame 1-5 and 24 onward
+D-Air,4,27,9,Autocancels on frame 1-3 and 26 onward
+Mach Tornado,12,104,29,Landing lag only occurs after entering special fall.
+Drill Rush,26/30/34/38/42/46/50/54/58/62/66/70,98,26,Total frames is assuming you travel along the ground.
+Shuttle Loop,8/22,,30,
+Shuttle Loop (air),7/20,,30,
+Dimensional Cape,,57,30,Invulnerable on frame 12-39. Landing lag only occurs if you enter special fall.
+Dimensional Cape (attack),34,92,30,Invulnerable on frame 12-32. Landing lag only occurs if you enter special fall.
+Grab,7,36,,
+Dash Grab ,11,44,,
+Pivot Grab,12,39,,
+Forward Throw,8/10,27,,
+Back Throw,16/18,34,,
+Up Throw,46,77,,Meta Knight is airborne when he can act. Startup assumes level ground
+Down Throw,11/16/22/28/34/40/46/52/58/72/74,86,,
+,,,,
+Spot Dodge,,19/24,,Invulnerable on frame 3-16
+Forward Roll,,28,,Invulnerable on frame 4-14 
+Back Roll,,33,,Invulnerable on frame 4-15
+Neutral Air Dodge,,47,10,Invulnerable on frame 2-26
+Dir. AD (down),,66,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally down),,74,11-19,Invulnerable on frame 2-19
+Dir. AD (left or right),,80,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally up),,94,11-19,Invulnerable on frame 2-19
+Dir. AD (up),,101,11-19,Invulnerable on frame 2-19

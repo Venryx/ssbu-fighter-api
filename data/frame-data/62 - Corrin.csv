@@ -1,0 +1,46 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,5,,,Transitions to jab 2 as early as frame 9
+Jab 2,4,,,Transitions to jab 3 as early as frame 9 and rapid as early as 8.
+Jab 3,6,30,,
+Rapid Jab,12/16/20...,,,
+Rapid Finisher,3,39,,
+F-Tilt ,8,34,,
+U-Tilt,7,35,,
+D-Tilt,5,30,,
+Dash Attack,12/14/16/18/20/23,49,,
+F-Smash ,17,56,,Charging hold is frame 12 and includes a hitbox that hits every 5 frames
+U-Smash,13,51,,Charge hold is frame 9
+D-Smash,13,48,,Charge hold is frame 8
+N-Air,6,46,10,Autocancels on frame 1-5 and 47 onward
+F-Air,9,35,8,Autocancels on frame 1-8 and 30 onward
+B-Air,13,41,13,Autocancels on frame 1-5 and 42 onward
+U-Air,7,37,9,Autocancels on frame 1-3 and 38 onward
+D-Air,12/14/16/18/20/22/24/26/28,51,26,Landing hit on frame 1. Autocancels on frame 1-11 and 41 onward
+Dragon Fang Shot,17-47,61-95,,
+Dragon Fang Shot (chomp),24-54-85,,,Chomp can be delayed to 85 for more damage.
+Dragon Lunge (Pin),4,,,Empty hop on the ground without Pin is 45 frames
+Dragon Lunge (air),10,41,22,
+Dragon Lunge (Pin cancel),,~35/19,19,Second total frames is if you don't land on the ground
+Dragon Lunge (Pin Jump),,45,,
+Dragon Lunge (Pin Kick),10,56/45,,Second total frames is if you go over an edge.
+Dragon Lunge (Back kick),6,60/45,,Second total frames is if you go over an edge.
+Dragon Ascent,18/20/22/24/26/28/30,,30,Invulnerable on frame 10-17
+Counter Surge,,66,,Invulnerable on frame 6. Counters on 7-26
+Counter Surge (attack),26,66,,Invulnerable on frame 1-50.  Attacker frozen until frame 12
+Grab,7,36,,
+Dash Grab ,10,44,,
+Pivot Grab,11,39,,
+Forward Throw,14/15,34,,
+Back Throw,12/13,37,,
+Up Throw,12/13,51,,
+Down Throw,26/27,54,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16 
+Neutral Air Dodge,,49,10,Invulnerable on frame 3-29 
+Dir. AD (down),,67,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,75,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,81,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,97,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,107,11-19,Invulnerable on frame 3-21

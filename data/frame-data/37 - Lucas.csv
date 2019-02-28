@@ -1,0 +1,40 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,2,19,,Transitions to Jab 2 as early as frame 5
+Jab 2,3,19,,Transitions to Jab 3 as early as frame 5
+Jab 3,6,29,,
+F-Tilt ,7,25,,
+U-Tilt,4/7,33,,
+D-Tilt,3,15,,
+Dash Attack,13,37,,
+F-Smash,14,45,,Reflects on frame 11-20. Charge hold is frame 7
+U-Smash,28/30,98,,"Invincible on frame 1-4. Head intangibility on frame 15-29. 
+Charge hold is frame 4. Lucas is not invincible during charge hold however"
+D-Smash,20/29/39,59,,Charge hold is frame 5
+N-Air,7/12/17/26,44,12,Autocancels on frame 37 onward
+F-Air,9,41,7,Autocancels on frame 34 onward
+B-Air,15,39,9,Autocancels on frame 1-2 and 34 onward
+U-Air,7,33,7,Autocancels on frame 34 onward
+D-Air,10/18/26/34,56,16,Autocancels on frame 47 onward
+Z-Air,9,51,8,Tethers on 7.
+PK Freeze,40-92,66-118,,"From charge release, startup is 5 and total frames is 31"
+PK Fire ,21,52,22,Explosion 1 frame after projectile hits something.
+PK Thunder ,20,,,Hits every six frames as it passes through somebody. 44 endlag when projectile ends
+PK Thunder 2,1/4/6/8/10/12/14/17/20/23/26/29,60,30,Total frames refers to travel along the ground.
+PSI Magnet,19,27,,Absorbs as early as frame 7. 9 endlag from extended use.
+Grab,12,46,,
+Dash Grab ,14,54,,
+Pivot Grab,15,49,,
+Forward Throw,23,52,,
+Back Throw,20,52,,
+Up Throw,25,55,,
+Down Throw,41,57,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15 
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,56,10,Invulnerable on frame 3-30
+Dir. AD (down),,75,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,85,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,95,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,117,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,126,11-19,Invulnerable on frame 3-21

@@ -1,0 +1,40 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,1,23,,Transitions to Jab 2 as early as frame 6
+Jab 2,2,25,,Transitions to Jab 2 as early as frame 6
+Jab 3,3,34,,
+F-Tilt ,6,28,,
+U-Tilt,3/9,45,,
+D-Tilt,8,29,,
+Dash Attack,7,51,,
+F-Smash,13/26,64,,Charge hold is frame 9
+U-Smash,10/14/17/20/23/26/28,48,,Charge hold is frame 4
+D-Smash,20,41,,Charge hold is frame 15
+N-Air,10,51,6,Autocancels on frame 1-3 and 42 onward
+F-Air,6/13,46,10,Autocancels on frame 1-3 and 38 onward
+B-Air,8,40,10,Autocancels on frame 1-3 and 31 onward
+U-Air,6,34,5,Autocancels on frame 25 onward
+D-Air,14,,24,Landing hit on frame 1. Autocancels on frame 1-3 and 50 onward
+Z-Air,9,49,8,Tethers on frame 2
+Paralyzer,21-43,48-70,,"On release, startup is 1 and total frames is 28."
+Plasma Whip,22/24/26/28/32,55,,Tethers on frame 20
+Boost Kick,4/10/14/18/22/26/32,,30,
+Flip Jump,,38,,"Automatic bounce off target has 58 endlag but can end early if you land 
+during it. Invulnerable on frame 3-12. Can transition to Manual kick as early as frame 14 from 19. "
+Flip Jump (kick),9,59,35,Landing lag only occurs if you land during 59 frame animation.
+Grab,15,58,,
+Dash Grab ,17,66,,
+Pivot Grab,18,61,,
+Forward Throw,8/9,25,,
+Back Throw,9/11,27,,
+Up Throw,3/5,40,,
+Down Throw,20/22,51,,
+,,,,
+Spot Dodge,,18/23,,Invulnerable on frame 3-14
+Forward Roll,,26,,Invulnerable on frame 4-12
+Back Roll,,32,,Invulnerable on frame 4-14
+Neutral Air Dodge,,45,10,Invulnerable on frame 2-26
+Dir. AD (down),,65,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally down),,73,11-19,Invulnerable on frame 2-19
+Dir. AD (left or right),,80,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally up),,90,11-19,Invulnerable on frame 2-19
+Dir. AD (up),,98,11-19,Invulnerable on frame 2-19

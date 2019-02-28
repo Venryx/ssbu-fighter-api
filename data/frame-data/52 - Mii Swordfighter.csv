@@ -1,0 +1,51 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,6,19,,Transitions to jab 2 as early as frame 9
+Jab 2,6,22,,Transitions to jab 2 as early as frame 9
+Jab 3 ,6,38,,
+F-Tilt ,10,34,,
+U-Tilt,8,32,,
+D-Tilt,5,19,,
+Dash Attack,9,41,,
+F-Smash ,15,59,,Charge hold is frame 9
+U-Smash,11/14/21,59,,Charge hold is frame 9
+D-Smash,7/15,53,,Charge hold is frame 3
+N-Air,10 ,48,9,Autocancels on frame 1-5 and 32 onward
+F-Air,12/16/21,46,12,Autocancels on frame 48 onward
+B-Air,10,37,9,Autocancels on frame 29 onward
+U-Air,11,44,10,Autocancels on frame 1-10 and 30 onward
+D-Air,14/19/24/29/34,58,18,Landing hit on frame 1. Autocancels on frame 1-4 and 50 onward
+Gale Strike,20,67,,
+Shuriken of Light,13,37,,
+Blurring Blade,17/21/25/29/33/44,84,,Startup is 6 from charge release. Can be charged for 50 addittional frames
+Airborne Assault,2 (+25),109,,"Startup is 2 upon reaching a target. Endlag on hit is 52 on level 
+ground, 48 in the air. Stops at an edge with 44 frame endlag animation."
+Gale Stab,2 (+7),55,29,"2 startup from charge release. 55 total frames on miss. Now 32 endlag on hit. Cannot 
+attempt a recovery after air hit like Ike can. Landing lag only incurred if you enter special fall"
+Chakram,18,52,,Weak throw has rehit rate of 9. Strong throw hits just once.
+Stone Scabbard,13/42,,44,Invulnerable on frame 5-12. Landing hit on frame 1
+Skyward Slash Dash,15/19/22/25/28/31/34,77,20,Total frames assumes you end on the ground.
+Hero's Spin,8,78,,Can be charged for an additional 60 frames
+Hero's Spin (air),8/16/22/31/47,,30,
+Blade Counter,,59,,Invulnerable on frame 5. Counters on frame 6-25
+Blade Counter (activated),10,29,,"Attacker placed in a unique stagger animation. Invulnerable 
+on frame 1-10 in addition to counter freeze frames."
+Reversal Slash,16,36,,Reflects on frame 5-24. Invulnerable on frame 17-26 if you hit somebody or reflect something
+Power Thrust,14,61,,
+Power Thrust (air),16,60,39,Landing hit on frame 1
+Grab,6,34,,
+Dash Grab ,9,42,,
+Pivot Grab,10,37,,
+Forward Throw,11/13,40,,
+Back Throw,15/16,46,,
+Up Throw,21/23,49,,
+Down Throw,15/16 ,32,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17 
+Forward Roll,,29,,Invulnreable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,50,10,Invulnerable on frame 3-30 
+Dir. AD (down),,69,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,77,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,84,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,99,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,107,11-19,Invulnerable on frame 3-21

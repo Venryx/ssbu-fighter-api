@@ -1,0 +1,38 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,2,16,,Transitions to Jab 2 as early as frame 5
+Jab 2,4,24,,Transitions to Jab 3 as early as frame 10
+Jab 3,5,31,,
+F-Tilt ,6,18,,
+U-Tilt,5,19,,
+D-Tilt,8,29,,
+Dash Attack,8,35,,
+F-Smash,20,49,,Charge hold is frame 5
+U-Smash,19/21,65,,Charge hold is frame 5
+D-Smash,18,40,,Charge hold is frame 6
+N-Air,4,41,8,Autocancels on frame 1-3 and 35 onward
+F-Air,5,35,6,Autocancels on frame 1-4 and 35 onward
+B-Air,5/7/9/11/13/15,35,18,Landing hit on frame 1. Autocancels on frame 1-4 and 22 onward
+U-Air,5,29,6,Autocancels on frame 20 onward
+D-Air,6/9/12/15/18/22,44,16,Autocancels on frame 1-5 and 35 onward
+Water Gun,26,63,,"From a charging state, startup is 7 and total frames is 44. Takes 64 frames to fully charge."
+Withdraw,23,,,"26 endlag on hit. 34 endlag to cancel the move manually. Armor begins on 22. Getting 
+footstooled places Squirtle in a ~155 frame helpless animation."
+Waterfall,9/14/19/24/29/34/39/43,,30,
+Pokemon Change,,39,,Invulnerable on frame 1-25. ~140 frame period before you can change again.
+Grab,6,34,,
+Dash Grab ,8,39,,
+Pivot Grab,9,37,,
+Forward Throw,11/13,34,,
+Back Throw,27,44,,
+Up Throw,16/18,37,,
+Down Throw,22/30,46,,
+,,,,
+Spot Dodge,,19/24,,Invulnerable on frame 3-16
+Forward Roll,,28,,Invulnerable on frame 4-14
+Back Roll,,33,,Invulnerable on frame 4-15
+Neutral Air Dodge,,53,10,Invulnerable on frame 2-26. 
+Dir. AD (down),,79,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally down),,87,11-19,Invulnerable on frame 2-19
+Dir. AD (left or right),,90,11-19,Invulnerable on frame 2-19
+Dir. AD (diagonally up),,105,11-19,Invulnerable on frame 2-19
+Dir. AD (up),,114,11-19,Invulnerable on frame 2-19

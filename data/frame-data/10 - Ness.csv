@@ -1,0 +1,39 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,3,19,,Transitions to Jab 2 as ealy as frame 5.,2.0,8,3,,-13
+Jab 2,3,19,,Transitions to Jab 3 as early as frame 6.,1.5,5,3,,-13
+Jab 3,6,29,,,4.0,11,5,,-18
+F-Tilt,7,34,,,10.0,8,10,,-17
+U-Tilt,5,28,,,7.0 / 5.0,7/6,7/6,Close/far,-16/-17
+D-Tilt,3,11,,Can transition to another Dtilt as early as frame 6.,4.5 / 3.0,5/5,5/4,close/far,-3/-4
+Dash Attack,8/15/22,39,,,4.0 / 2.0 / 4.0,5/4/9,5/3/5,,-12
+F-Smash ,21,54,,Reflects on frame 18-30. Charge hold is frame 10.,18.0 / 20.0 / 22.0,11/12/15,12/13/14,close/med/far,-21/-20/-19
+U-Smash,10,52,,Charge hold on frame 10 and also creates a hitbox hitting every 4 frames,13.0,4/9,2/9,charging/launch,-33
+D-Smash,12/17/23/31,45,,Charge hold on frame 12 and also creates a hitbox hitting every 4 frames,1.0 / 10.0,4/8,2/7,weak/strong,-21/-7
+N-Air,5,35,8,Autocancels on frame 1-4 and 26 onward,11.0 / 7.0,8/7,4/3,early/late,-4/-5
+F-Air,8/13/18/20,39,12,Autocancels on frame 1-7 and 33 onward,1.5 / 5.5,4/9,2/3,multi/final,-10/-9
+B-Air,10,35,10,Autocancels on frame 1-9 and 25 onward,15.0 / 8.0,10/7,5/4,early/late,-5/-6
+U-Air,8/10/12/14/15,33,8,Autocancels on frame 1-7 and 34 onward,2.5 / 5.0,5/9,2/3,multi/final,-6/-5
+D-Air,20,54,12,Autocancels on frame 1-19 and 41 onward ,,,,early/late,
+PK Flash ,44-121,65-142,,"On release, startup is 14 and total frames is 35.",11.0 - 27.0,13-17,4-8,,-4 to +4
+PK Fire,18,55,,Will not erupt on shields. The flame pillar has a rehit rate of 7 and lasts about 100 frames,1.0 / 1.0,6,3,,-28
+PK Fire (air),18,55,12,,,,,,
+PK Thunder,20,,,39 endlag after hitting a target,11.0 / 1.0,13/3,4/0,direct/tail,-22
+PK Thunder 2,1,56,24,Invulnerable on frame 1-32. Landing lag is if you enter special fall. ,25.0 / 21.0,17/16,22/18,early/late,-33
+PSI Magnet,7,24,,Begins absorbing on frame 7. Total frame is the minimum duration. Endlag is otherwise 9 on release.,4.0,5,5,,-12
+Grab,6,37,,,,,,,
+Dash Grab ,9,45,,,,,,,
+Pivot Grab ,10,40,,,,,,,
+Forward Throw,27,52,,,,,,,
+Back Throw,27,52,,,,,,,
+Up Throw,36,55,,,,,,,
+Down Throw,6/10/14/27/28,50,,,,,,,
+,,,,,,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17 ,,,,,
+Forward Roll,,29,,Invulnerable on frame 4-15,,,,,
+Back Roll,,34,,Invulnerable on frame 5-16 ,,,,,
+Neutral Air Dodge,,59,10,Invulnerable on frame 3-30,,,,,
+Dir. AD (down),,77,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally down),,86,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (left or right),,99,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (diagonally up),,119,11-19,Invulnerable on frame 3-21,,,,,
+Dir. AD (up),,134,11-19,Invulnerable on frame 3-21,,,,,

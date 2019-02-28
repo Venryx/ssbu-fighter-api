@@ -1,0 +1,42 @@
+,Startup,Total Frames,Landing Lag,Additional Notes,Base Damage,Shieldlag,Shieldstun,<-Which hitbox?,Advantage
+Jab 1,2,17,,Transitions to Jab 2 as early as frame 4.,2.0,7,3,,-12
+Jab 2,3,17,,Transitions to Rapid jab as early as frame 5. ,1.6,5,3,,-11
+Rapid Jab,5/7/9...,,,,0.3,4,-,,
+Rapid Finisher,5,41,,,2.0,9,3,,-33
+F-Tilt,5,24,,,3.0,5,4,,-15
+U-Tilt,5/16,32,,,3.0 / 4.0,5/5,4/5,,-11
+D-Tilt,5,26,,,4.5,5,5,,-16
+Dash Attack,5,34,,,7.0,9,10,,-19
+F-Smash ,12/20,44,,Charge hold is frame 3,5.0 / 8.0,6/7,4/6,,-18
+U-Smash,11/14,52,,Arm intangibility on frame 8-15. Charge hold is frame 6,15.0 / 11.0,13/8,10/8,,-30
+D-Smash,11/18,51,,Charge hold is frame 1,4.0 / 6.0,5/6,4/5,,-28
+N-Air,3,49,6,Autocancels on frame 1-2 and 31 onward,6.0 / 4.0,6/5,3/3,Early/Late,-3/-3
+F-Air,5,34,5,Autocancels on frame 1-4 and 11 onward,3.8 / 4.5,4/5,3/3,Close/Far,-2/-2
+B-Air,4,37,7,Autocancels on frame 1-3 and 31 onward,7.5 / 6.0,7/6,3/3,Early/Late,-4/-4
+U-Air,4/8/12/23,43,13,Autocancels on frame 1-3 and 44 onward,1.0 / 4.0,4/11,2/3,Multi/Final,-11/-10
+D-Air,15,54,22,landing hit on frame 1. Autocancels on frame 1-2 and 53 onward,10.0 / 2.0,8/4,4/3,Falling/Landing,-18
+Needle Storm (partial charge),5/8/11/13/17 (+7),41/35,,"Startup is 5 from a charging state. 7 frames to enter charge state.
+Takes 4 frames to exit charge with shield. Second total frames is for the air.",1.5 / 0.8,4/4,2/2,Close/Far,-18
+Needle Storm (full charge),12/14/17/20/23/27,48/42,16,101 frames to reach full charge. Second total frames is for the air. ,1.5 / 0.8,4/4,2/2,Close/Far,-15
+Burst Grenade,13/67/70/73/76/79/82/88,75-104,,"From release, startup is 29/32/35/38/41/44/50 and endlag is 39 frames. All but the final hit are just windboxes.",1.0 / 12.6,4/11,2/4,,28+
+Vanish,36/56,95,20,Invulnerable on frame 14-60 on the ground or 19-55 in the air. Landing lag only occurs if you enter special fall.,12.0 / 5.0,9/6,4/6,,-33
+Bouncing Fish,20/26,63/50/45,35/19,"First startup is if you attack early. Second landing lag is after a hit.
+Endlag is 79 on hit, or after 20 frames initiate a 29 total frames rebound attack with 3 startup.
+First total frames is on level ground. Second is in the air. Third is in the air if you attack early.",11.0,14,10,,-39
+Grab,6,36,,,,,,,
+Dash Grab ,9,44,,,,,,,
+Pivot Grab,11,39,,,,,,,
+Forward Throw,20/22,39,,,,,,,
+Back Throw,15/17,35,,,,,,,
+Up Throw,19/21,49,,,,,,,
+Down Throw,17/18,40,,,,,,,
+,,,,,,,,,
+Spot Dodge,,18/23,,Invulnerable on frame 3-14,,,,,
+Forward Roll,,26,,Invulnerable on frame 4-12,,,,,
+Back Roll,,32,,Invulnerable on frame 4-14,,,,,
+Neutral Air Dodge,,44,10,Invulnerable on frame 2-26,,,,,
+Dir. AD (down),,63,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (diagonally down),,67,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (left or right),,74,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (diagonally up),,85,11-19,Invulnerable on frame 2-19,,,,,
+Dir. AD (up),,93,11-19,Invulnerable on frame 2-19,,,,,

@@ -1,0 +1,41 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,7,31,,Transitions to jab 2 as early as frame 12 
+Jab 2,5,34,,Transitions to jab 3 as early as frame 6
+Jab 3,9,38,,
+F-Tilt ,12/15,32,,
+U-Tilt,6,32,,
+D-Tilt,9,22,,
+Dash Attack,7,41,,
+F-Smash,19,54,,Charge hold is frame 3
+U-Smash,15/19,63,,Charge hold is frame 11
+D-Smash,19,54,,Charge hold is frame 4
+N-Air,10/18,42,5,Autocancels on frame 1-4 and 36 onward
+F-Air,7,27,9,Autocancels on frame 28 onward
+B-Air,13,49,14,Autocancels on frame 1-4 and 41 onward
+U-Air,10,38,13,Autocancels on frame 29 onward
+D-Air,4/11,30,12,Autocancels on frame 25 onward
+Aura Sphere,9 (+8),48,,"9 startup from charge.Takes 8 frames to enter charge state and 4 frames to cancel charge 
+with shield. Charging sphere becomes hitbox on 9 and hits every six frames"
+Aura Sphere (full charge),17,56,,Takes 99 frames to reach full charge.
+Force Palm ,24,63,,
+Force Palm (grab),9/37,50,,
+Extreme Speed,46,,40,
+Double Team,,70,,Invulnerable on frame 4. Counters on frame 5-24
+Double Team (attack),8,47,,Invulnerable on frame 1-17 in addition to counter freeze frames.
+Grab,7,39,,
+Dash Grab ,10,46,,
+Pivot Grab,11,42,,
+Forward Throw,6/7,21,,
+Back Throw,14,35,,
+Up Throw,16/17,37,,
+Down Throw,28,50,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,48,10,Invulnerable on frame 3-28 
+Dir. AD (down),,65,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,74,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,91,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,98,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,108,11-19,Invulnerable on frame 3-21

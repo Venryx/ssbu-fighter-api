@@ -1,0 +1,44 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,4,29,,Transitions to jab 2 as early as frame 8
+Jab 2,5,32,,Transitions to jab 3 as early as frame 9
+Jab 3,6,37,,
+F-Tilt ,9,35,,
+U-Tilt,6,32,,
+D-Tilt,7,40,,
+Dash Attack,9,45,,
+F-Smash ,19/24/28,66,,Charge hold is frame 5
+U-Smash,15,48,,Charge hold is frame 6
+D-Smash,8/21,49,,Charge hold is frame 2
+N-Air,5,38,9,Autocancels on frame 31 onward
+F-Air,18,53,11,Autocancels on frame 1-2 and 43 onward
+B-Air,11,42,8,Autocancels on frame 1-4 and 37 onward
+U-Air,8,44,9,Autocancels on frame 32 onward
+D-Air,11,64,16,Autocancels on frame 1-4 and 46 onward
+Blade Beam (ground/air),18/18,53/60,,
+Limit Blade Beam,16 (1/7/13/19/25/28),60,,Invulnerable on frame 10-17
+Cross Slash,10,40,,Transitions to next slash as early as frame 10 if you hit
+Cross Slash 2,2,31,,Transitiions to next slash as early as frame 14 if you hit
+Cross Slash 3,2/11/25,55,,
+Limit Cross Slash,10/15/21/28/38,60,,Invulnerable on frame 6-11
+Climhazzard,7/10,,20,Transitions to followup as early as frame 20
+Limit Climhazzard,7/11,,20,Invulnerable on frame 5-12 Transitions to followup as early as frame 33
+Climhazzard followup,12,,26,
+Limit charge,,,,Takes 7 frames to cancel. About 7 seconds to fully charge
+Finishing Touch (ground/air),14/16,86/89,,
+Grab,9,36,,
+Dash Grab ,12,44,,
+Pivot Grab,13,39,,
+Forward Throw,7/9,35,,
+Back Throw,13/15,31,,
+Up Throw,8/13/15,50,,
+Down Throw,18,43,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 3-17
+Forward Roll,,29,,Invulnerable on frame 4-15 
+Back Roll,,34,,Invulnerable on frame 5-16
+Neutral Air Dodge,,47,10,Invulnerable on frame 3-30 
+Dir. AD (down),,64,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally down),,72,11-19,Invulnerable on frame 3-21
+Dir. AD (left or right),,79,11-19,Invulnerable on frame 3-21
+Dir. AD (diagonally up),,94,11-19,Invulnerable on frame 3-21
+Dir. AD (up),,104,11-19,Invulnerable on frame 3-21

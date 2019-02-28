@@ -1,0 +1,48 @@
+,Startup,Total Frames,Landing Lag,Additional Notes
+Jab 1,9,31,,Transitions to jab 2 as early as frame 15 
+Jab 2,7,31,,Transitions to jab 3 as early as frame 14
+Jab 3,7,39,,Transitions to rapid jab as early as frame 17
+Rapid Jab,6/10/14...,,,
+Rapid Finisher,11,62,,
+F-Tilt ,12,31,,Transitions to next hit as early as frame 16
+F-Tilt 2,12,39,,Transitions to next hit as early as frame 16
+F-Tilt 3,14,42,,
+U-Tilt,9/15,31,,
+D-Tilt,7,28,,
+Dash Attack,15,42,,
+F-Smash ,17,66,,Charge hold is frame 2
+U-Smash,18,64,,Charge hold is frame 6
+D-Smash,20/25,68,,First hit refers to Bayonetta's stomp. Charge hold is frame 8.
+N-Air,9,32,10/18,Second landing lag is extended version. Autocancels on frame 34 onward
+F-Air,7,37,12,Autocancels on frame 1-2 and 30 onward
+F-Air 2,7,39,12,Autocancels on frame 32 onward
+F-Air 3,12,46,12,Autocancels on frame 35 onward
+B-Air,11,34,10,Autocancels on frame 29 onward
+U-Air,9,29,8/16,Second landing lag is extended version. Autocancels on frame 1-2 and 26 onward
+D-Air,18,52,30,Landing hit on frame 1. Autocancels on frame 50 onward
+Bullet Climax,17/22/32/37,75,,"Reaches full charge on 42. Can only shield cancel as early as frame 45
+Repeated shots occur on the same pattern. Alternating 10 and 5 frames later."
+Bullet Climax (full charge),42/47/57/62,100,,Repeated shots occur on the same pattern. Alternating 10 and 5 frames later.
+Heel Slide,15/51,71/72,,Second kick occurs only when button is held. Will not occur if first is blocked
+After Burner Kick,7,31,20,
+After Burner Kick (down),8,43,40,21 endlag on hit.
+Witch Twist,6/11/14/17/20/23/27,31,18,
+Witch Time,,66,,Counters on frame 8-17. Bat Within reduced counter 18-29
+Grab,7,37,,
+Dash Grab ,10,45,,
+Pivot Grab,11,40,,
+Forward Throw,14/15,42,,
+Back Throw,14/15,49,,
+Up Throw,9/10,35,,
+Down Throw,20/21,46,,
+,,,,
+Spot Dodge,,20/25,,Invulnerable on frame 6-17. Bat within on frame 2-5
+Forward Roll,,31,,Invulnerable on frame 6-15. Bat within on frame 2-5 
+Back Roll,,36,,Invulnerable on frame 7-16. Bat within on frame 3-6 
+Neutral Air Dodge,,45,10,Invulnerable on frame 5-31. Bat within on frame 1-4
+Dir. AD (down),,63,11-19,Invulnerable on frame 5-21. Bat within on frame 1-4.
+Dir. AD (diagonally down),,69,11-19,Invulnerable on frame 5-21. Bat within on frame 1-4.
+Dir. AD (left or right),,74,11-19,Invulnerable on frame 5-21. Bat within on frame 1-4.
+Dir. AD (diagonally up),,85,11-19,Invulnerable on frame 5-21. Bat within on frame 1-4.
+Dir. AD (up),,93,11-19,Invulnerable on frame 5-21. Bat within on frame 1-4.
+,,,,Invulnerable on frame 5-21. Bat within on frame 1-4.
