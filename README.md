@@ -14,6 +14,8 @@ The following are required to run the script:
 - credentials.json, the Google API authentication
 - secrets.env, secret environment variables
 
+# Dependency Management
+Use `govendor` for managing dependencies.
 
 # Resources
 - [Google Sheets Golang](https://developers.google.com/sheets/api/quickstart/go "Go Quickstart")
