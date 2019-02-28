@@ -1,7 +1,12 @@
 {
-    "rootPath": "github.com/aluc/ssbu-fighter-api",
-    "heroku": {
-        "install": [ "./src/..." ],
-        "goVersion": "go1.12"
-        }
+	"comment": "",
+	"heroku": {
+		"goVersion": "go1.12",
+		"install": [
+			"./src/..."
+		]
+	},
+	"ignore": "test",
+	"package": [],
+	"rootPath": "github.com/aluc/ssbu-fighter-api"
 }
