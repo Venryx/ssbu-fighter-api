@@ -45,10 +45,21 @@ type Frames struct {
 
 // Display all from the fighters var
 func GetFrameData(w http.ResponseWriter, r *http.Request) {
+    fmt.Println("GET params: ", r.URL.Query())
     json.NewEncoder(w).Encode(fighters)
 }
 
-// our main function
+
+// Display a fighter
+func GetFighter(w http.ResponseWriter, r *http.Request) {
+    vars := mux.Vars(r)
+    key := vars["name"]
+    fmt.Fprintf(w, "name: " + name)
+    // json.NewEncoder(w).Encode(fighters)
+}
+
+
+// Main Function
 func main() {
 
     /* Determine port on system. */
@@ -62,7 +73,6 @@ func main() {
 
     for _, file := range files {
             fileName := file.Name()
-        fmt.Println(fileName)
         filePath := sourcePath + "/" + fileName
         f, _ := os.Open(filePath)
         defer f.Close()
@@ -71,7 +81,8 @@ func main() {
     }
 
     router := mux.NewRouter()
-    router.HandleFunc("/", GetFrameData).Methods("GET")
+    router.HandleFunc("/api", GetFrameData).Methods("GET")
+    router.HandleFunc("/api/{name}", GetFighter).Methods("GET")
 
     log.Fatal(http.ListenAndServe(port, router))
 
