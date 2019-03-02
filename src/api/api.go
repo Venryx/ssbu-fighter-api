@@ -19,8 +19,7 @@ import (
     "encoding/csv"
     "strings"
     "os"
-
-//    "encoding/json"
+    "encoding/json"
     "log"
     "net/http"
     "github.com/gorilla/mux"
@@ -29,6 +28,23 @@ import (
 const sourcePath string = "data/frame-data"
 var frameDataDict = map[string]map[string]string{}
 
+type Fighter struct {
+    Name        string `json:"name,omitempty"`
+    Action      string `json:"action,omitempty"`
+    Frames      *Frames `json:"frames,omitempty"`
+}
+type Frames struct {
+    Startup     string `json:"startup,omitempty"`
+    TotalFrames string `json:"totalframes,omitempty"`
+    LandingLag  string `json:"landinglag,omitempty"`
+}
+
+var fighters[]Fighter
+
+// Display all from the fighters var
+func GetFrameData(w http.ResponseWriter, r *http.Request) {
+    json.NewEncoder(w).Encode(fighters)
+}
 
 // our main function
 func main() {
@@ -53,6 +69,8 @@ func main() {
     }
 
     router := mux.NewRouter()
+    router.HandleFunc("/", GetFrameData).Methods("GET")
+
     log.Fatal(http.ListenAndServe(port, router))
 
     fmt.Println("Finished main()")
@@ -62,8 +80,9 @@ func read_frame_data(name string, file io.Reader) {
     records, _ := csv.NewReader(file).ReadAll()
     for _, row := range records {
         fighter_csv := strings.Split(name, " - ")[1]
-        fighter := strings.Replace(fighter_csv, ".csv", "", -1)
-        fmt.Println(fighter, row)
+        name := strings.Replace(fighter_csv, ".csv", "", -1)
+        fighters = append(fighters, Fighter{Name: name, Action: row[0], Frames: &Frames{Startup: row[1], TotalFrames: row[2], LandingLag: row[3]}})
+        // fmt.Println(fighter, row)
         // fmt.Println(name, row)
     }
 }
