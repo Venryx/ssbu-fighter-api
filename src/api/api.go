@@ -25,21 +25,23 @@ import (
     "github.com/gorilla/mux"
 )
 
+
 const sourcePath string = "data/frame-data"
-var frameDataDict = map[string]map[string]string{}
+var fighters[]Fighter
+
 
 type Fighter struct {
     Name        string `json:"name,omitempty"`
     Action      string `json:"action,omitempty"`
     Frames      *Frames `json:"frames,omitempty"`
 }
+
 type Frames struct {
     Startup     string `json:"startup,omitempty"`
     TotalFrames string `json:"totalframes,omitempty"`
     LandingLag  string `json:"landinglag,omitempty"`
 }
 
-var fighters[]Fighter
 
 // Display all from the fighters var
 func GetFrameData(w http.ResponseWriter, r *http.Request) {
