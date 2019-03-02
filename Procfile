@@ -1,1 +1,1 @@
-web: ssbu-fighter-api
+web: bin/ssbu-fighter-api
