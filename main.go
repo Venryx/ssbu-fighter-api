@@ -11,20 +11,43 @@ package main
  */
 
 import (
-        // "encoding/json"
-        "fmt"
-        // "io/ioutil"
-        // "log"
-        // "net/http"
-        // "os"
-
-        // "golang.org/x/net/context"
-        // "golang.org/x/oauth2"
-        // "golang.org/x/oauth2/google"
-        // "google.golang.org/api/sheets/v4"
+	"fmt"
+	"io"
+	"encoding/csv"
+	"strings"
+	"time"
+	"os"
 )
 
+const sourcePath string = "data/frame-data"
+var frameDataDict = map[string]map[string]string{}
 
 func main() {
-	fmt.Println("Hello, World!")
+	dir, _ := os.Open(sourcePath)
+    files, _ := dir.Readdir(-1)
+
+    for _, file := range files {
+		fileName := file.Name()
+        fmt.Println(fileName)
+        filePath := sourcePath + "/" + fileName
+        f, _ := os.Open(filePath)
+        defer f.Close()
+
+		go read_frame_data(fileName, f)
+
+        time.Sleep(10 * time.Millisecond)// give some time to GO routines for execute
+    }
+
+	fmt.Println("Finished main()")
+}
+
+
+func read_frame_data(name string, file io.Reader) {
+	records, _ := csv.NewReader(file).ReadAll()
+	for _, row := range records {
+		fighter_csv := strings.Split(name, " - ")[1]
+		fighter := strings.Replace(fighter_csv, ".csv", "", -1)
+		fmt.Println(fighter, row)
+		// fmt.Println(name, row)
+	}
 }
