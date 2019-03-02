@@ -1,1 +1,1 @@
-web: api
+web: ssbu-fighter-api
