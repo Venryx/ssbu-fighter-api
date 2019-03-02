@@ -32,8 +32,6 @@ var frameDataDict = map[string]map[string]string{}
 
 
 // our main function
-}
-
 func api() {
 
     /* Determine port on system. */
