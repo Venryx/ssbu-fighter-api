@@ -9,6 +9,7 @@
  *
  * Source:
  *   https://www.codementor.io/codehakase/building-a-restful-api-with-golang-a6yivzqdo
+ *   https://mholt.github.io/json-to-go/
  */
 
 package main
@@ -32,11 +33,11 @@ var fighters[]Fighter
 
 type Fighter struct {
     Name        string `json:"name,omitempty"`
-    Action      string `json:"action,omitempty"`
     Frames      *Frames `json:"frames,omitempty"`
 }
 
 type Frames struct {
+    Action      string `json:"action,omitempty"`
     Startup     string `json:"startup,omitempty"`
     TotalFrames string `json:"totalframes,omitempty"`
     LandingLag  string `json:"landinglag,omitempty"`
@@ -45,16 +46,45 @@ type Frames struct {
 
 // Display all from the fighters var
 func GetFrameData(w http.ResponseWriter, r *http.Request) {
-    fmt.Println("GET params: ", r.URL.Query())
-    json.NewEncoder(w).Encode(fighters)
+    // Normal
+    // json.NewEncoder(w).Encode(fighters)
+
+    // With Query
+    query := r.URL.Query()
+    action := query.Get("action")
+    print(action)
+    found := false
+    for _, fighter := range fighters {
+        if fighter.Frames != nil {
+            if fighter.Frames.Action == action {
+                json.NewEncoder(w).Encode(fighter)
+                found = true
+            }
+        }
+    }
+    if found == false {
+        fmt.Fprintf(w, "Action not found!")
+    }
+    // fmt.Println("GET params: ", r.URL.Query())
 }
 
 
 // Display a fighter
 func GetFighter(w http.ResponseWriter, r *http.Request) {
     vars := mux.Vars(r)
-    key := vars["name"]
-    fmt.Fprintf(w, "name: " + name)
+    name := vars["name"]
+    found := false
+    for _, fighter := range fighters {
+        // fmt.Fprintf(w, fighter.Name)
+        if fighter.Name == name {
+            json.NewEncoder(w).Encode(fighter)
+            found = true
+        }
+    }
+    if found == false {
+        fmt.Fprintf(w, "Fighter not found!")
+    }
+    // fmt.Fprintf(w, "name: " + name)
     // json.NewEncoder(w).Encode(fighters)
 }
 
@@ -91,11 +121,13 @@ func main() {
 
 func read_frame_data(name string, file io.Reader) {
     records, _ := csv.NewReader(file).ReadAll()
-    for _, row := range records {
-        fighter_csv := strings.Split(name, " - ")[1]
-        name := strings.Replace(fighter_csv, ".csv", "", -1)
-        fighters = append(fighters, Fighter{Name: name, Action: row[0], Frames: &Frames{Startup: row[1], TotalFrames: row[2], LandingLag: row[3]}})
-        // fmt.Println(fighter, row)
-        // fmt.Println(name, row)
+    for _, row := range records[1:] {
+        if len(row) != 0 { // TODO: Ignore empty lines
+            fighter_csv := strings.Split(name, " - ")[1]
+            name := strings.Replace(fighter_csv, ".csv", "", -1)
+            fighters = append(fighters, Fighter{Name: name, Frames: &Frames{Action: row[0], Startup: row[1], TotalFrames: row[2], LandingLag: row[3]}})
+            // fmt.Println(fighter, row)
+            // fmt.Println(name, row)
+        }
     }
 }
