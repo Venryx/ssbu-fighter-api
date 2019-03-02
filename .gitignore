@@ -1,3 +1,4 @@
+bin/api
 credentials.json
 secrets.env
 *.bin
