@@ -34,7 +34,7 @@ var frameDataDict = map[string]map[string]string{}
 func main() {
 
     /* Determine port on system. */
-    port := os.Getenv("PORT")
+    port := ":" + os.Getenv("PORT")
     if port == "" {
         log.Fatal("$PORT must be set")
     }
