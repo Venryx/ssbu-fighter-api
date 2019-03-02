@@ -31,7 +31,7 @@
 30 - Wario
 31 - Snake
 32 - Ike
-33- Squirtle
+33 - Squirtle
 34 - Ivysaur
 35 - Charizard (1)
 35 - Charizard
