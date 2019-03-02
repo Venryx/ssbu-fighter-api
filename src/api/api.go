@@ -11,14 +11,13 @@
  *   https://www.codementor.io/codehakase/building-a-restful-api-with-golang-a6yivzqdo
  */
 
-package api
+package main
 
 import (
     "fmt"
     "io"
     "encoding/csv"
     "strings"
-    "time"
     "os"
 
 //    "encoding/json"
@@ -32,7 +31,7 @@ var frameDataDict = map[string]map[string]string{}
 
 
 // our main function
-func api() {
+func main() {
 
     /* Determine port on system. */
     port := os.Getenv("PORT")
