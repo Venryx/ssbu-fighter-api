@@ -33,7 +33,6 @@
 32 - Ike
 33 - Squirtle
 34 - Ivysaur
-35 - Charizard (1)
 35 - Charizard
 36 - Diddy Kong
 37 - Lucas
