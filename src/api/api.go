@@ -20,6 +20,7 @@ import (
     "encoding/csv"
     "strings"
     "os"
+    "time"
     "encoding/json"
     "log"
     "net/http"
@@ -33,6 +34,7 @@ var fighters[]Fighter
 
 type Fighter struct {
     Name        string `json:"name,omitempty"`
+    ID          string `json:"id,omitempty"`
     Frames      *Frames `json:"frames,omitempty"`
 }
 
@@ -46,26 +48,25 @@ type Frames struct {
 
 // Display all from the fighters var
 func GetFrameData(w http.ResponseWriter, r *http.Request) {
-    // Normal
-    // json.NewEncoder(w).Encode(fighters)
-
     // With Query
     query := r.URL.Query()
     action := query.Get("action")
-    print(action)
-    found := false
-    for _, fighter := range fighters {
-        if fighter.Frames != nil {
-            if fighter.Frames.Action == action {
-                json.NewEncoder(w).Encode(fighter)
-                found = true
+    if len(query) != 0 {
+        found := false
+        for _, fighter := range fighters {
+            if fighter.Frames != nil {
+                if fighter.Frames.Action == action {
+                    json.NewEncoder(w).Encode(fighter)
+                    found = true
+                }
             }
         }
+        if found == false {
+            fmt.Fprintf(w, "Action not found!")
+        }
+    } else { // Without Query
+        json.NewEncoder(w).Encode(fighters)
     }
-    if found == false {
-        fmt.Fprintf(w, "Action not found!")
-    }
-    // fmt.Println("GET params: ", r.URL.Query())
 }
 
 
@@ -73,25 +74,42 @@ func GetFrameData(w http.ResponseWriter, r *http.Request) {
 func GetFighter(w http.ResponseWriter, r *http.Request) {
     vars := mux.Vars(r)
     name := vars["name"]
-    found := false
-    for _, fighter := range fighters {
-        // fmt.Fprintf(w, fighter.Name)
-        if fighter.Name == name {
-            json.NewEncoder(w).Encode(fighter)
-            found = true
+
+    query := r.URL.Query()
+    action := query.Get("action")
+    if len(query) == 0 { // Without Query
+        found := false
+        for _, fighter := range fighters {
+            if fighter.Name == name || fighter.ID == name {
+                json.NewEncoder(w).Encode(fighter)
+                found = true
+            }
+        }
+        if found == false {
+            fmt.Fprintf(w, "Name/ID not found!")
+        }
+    } else { // With Query
+        found := false
+        for _, fighter := range fighters {
+            // fmt.Fprintf(w, fighter.Name)
+            if fighter.Name == name || fighter.ID == name {
+                if fighter.Frames != nil {
+                    if fighter.Frames.Action == action {
+                        json.NewEncoder(w).Encode(fighter)
+                        found = true
+                    }
+                }
+            }
+        }
+        if found == false {
+            fmt.Fprintf(w, "Action not found!")
         }
     }
-    if found == false {
-        fmt.Fprintf(w, "Fighter not found!")
-    }
-    // fmt.Fprintf(w, "name: " + name)
-    // json.NewEncoder(w).Encode(fighters)
 }
 
 
 // Main Function
 func main() {
-
     /* Determine port on system. */
     port := ":" + os.Getenv("PORT")
     if port == "" {
@@ -108,12 +126,13 @@ func main() {
         defer f.Close()
 
         go read_frame_data(fileName, f)
+        time.Sleep(10 * time.Millisecond)
+   
     }
 
     router := mux.NewRouter()
     router.HandleFunc("/api", GetFrameData).Methods("GET")
     router.HandleFunc("/api/{name}", GetFighter).Methods("GET")
-
     log.Fatal(http.ListenAndServe(port, router))
 
     fmt.Println("Finished main()")
@@ -121,13 +140,10 @@ func main() {
 
 func read_frame_data(name string, file io.Reader) {
     records, _ := csv.NewReader(file).ReadAll()
-    for _, row := range records[1:] {
-        if len(row) != 0 { // TODO: Ignore empty lines
-            fighter_csv := strings.Split(name, " - ")[1]
-            name := strings.Replace(fighter_csv, ".csv", "", -1)
-            fighters = append(fighters, Fighter{Name: name, Frames: &Frames{Action: row[0], Startup: row[1], TotalFrames: row[2], LandingLag: row[3]}})
-            // fmt.Println(fighter, row)
-            // fmt.Println(name, row)
-        }
+    for _, row := range records {
+        id := strings.Split(name, " - ")[0]
+        fighter_csv := strings.Split(name, " - ")[1]
+        name := strings.Replace(fighter_csv, ".csv", "", -1)
+        fighters = append(fighters, Fighter{Name: name, ID: id, Frames: &Frames{Action: row[0], Startup: row[1], TotalFrames: row[2], LandingLag: row[3]}})
     }
 }
