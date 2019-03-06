@@ -34,10 +34,23 @@ const sourcePath string = "data/frame-data"
 var fighters[]Fighter
 
 
+// type Fighter struct {
+//     Name        string `json:"name,omitempty"`
+//     ID          string `json:"id,omitempty"`
+//     Frames      *Frames `json:"frames,omitempty"`
+// }
+
+// type Frames struct {
+//     Action      string `json:"action,omitempty"`
+//     Startup     string `json:"startup,omitempty"`
+//     TotalFrames string `json:"totalframes,omitempty"`
+//     LandingLag  string `json:"landinglag,omitempty"`
+// }
+
 type Fighter struct {
-    Name        string `json:"name,omitempty"`
-    ID          string `json:"id,omitempty"`
-    Frames      *Frames `json:"frames,omitempty"`
+    Name   string `json:"name,omitempty"`
+    ID     string `json:"id,omitempty"`
+    Frames []Frames `json:"frames,omitempty"`
 }
 
 type Frames struct {
@@ -46,7 +59,6 @@ type Frames struct {
     TotalFrames string `json:"totalframes,omitempty"`
     LandingLag  string `json:"landinglag,omitempty"`
 }
-
 
 // Display all from the fighters var
 func GetFrameData(w http.ResponseWriter, r *http.Request) {
@@ -57,17 +69,24 @@ func GetFrameData(w http.ResponseWriter, r *http.Request) {
         found := false
         for _, fighter := range fighters {
             if fighter.Frames != nil {
-                if fighter.Frames.Action == action {
-                    json.NewEncoder(w).Encode(fighter)
-                    found = true
+                for _, frame := range fighter.Frames {
+                    if frame.Action == action {
+                        json.NewEncoder(w).Encode(fighter.Name)
+                        json.NewEncoder(w).Encode(fighter.ID)
+                        json.NewEncoder(w).Encode(frame)
+                        found = true
+                    }
                 }
             }
         }
         if found == false {
             fmt.Fprintf(w, "Action not found!")
         }
-    } else { // Without Query
-        json.NewEncoder(w).Encode(fighters)
+    } else { // Without 
+        pretty, err := json.MarshalIndent(fighters, "", "  ")
+        if err == nil {
+            json.NewEncoder(w).Encode(pretty)
+        }
     }
 }
 
@@ -96,9 +115,13 @@ func GetFighter(w http.ResponseWriter, r *http.Request) {
             // fmt.Fprintf(w, fighter.Name)
             if fighter.Name == name || fighter.ID == name {
                 if fighter.Frames != nil {
-                    if fighter.Frames.Action == action {
-                        json.NewEncoder(w).Encode(fighter)
-                        found = true
+                    for _, frame := range fighter.Frames {
+                        if frame.Action == action {
+                            json.NewEncoder(w).Encode(fighter.Name)
+                            json.NewEncoder(w).Encode(fighter.ID)
+                            json.NewEncoder(w).Encode(frame)
+                            found = true
+                        }
                     }
                 }
             }
@@ -151,10 +174,16 @@ func main() {
 
 func read_frame_data(name string, file io.Reader) {
     records, _ := csv.NewReader(file).ReadAll()
+    id := strings.Split(name, " - ")[0]
+    fighter_csv := strings.Split(name, " - ")[1]
+    name = strings.Replace(fighter_csv, ".csv", "", -1)
+
+    var Frames_list []Frames
     for _, row := range records {
-        id := strings.Split(name, " - ")[0]
-        fighter_csv := strings.Split(name, " - ")[1]
-        name := strings.Replace(fighter_csv, ".csv", "", -1)
-        fighters = append(fighters, Fighter{Name: name, ID: id, Frames: &Frames{Action: row[0], Startup: row[1], TotalFrames: row[2], LandingLag: row[3]}})
+        m := Frames{Action: row[0], Startup: row[1], TotalFrames: row[2], LandingLag: row[3]}
+        Frames_list = append(Frames_list, m)
     }
+    fighters = append(fighters, Fighter{Name: name, ID: id, Frames: Frames_list})
+
+    
 }
