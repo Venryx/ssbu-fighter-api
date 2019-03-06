@@ -24,7 +24,9 @@ import (
     "encoding/json"
     "log"
     "net/http"
-    "github.com/gorilla/mux"
+
+	"github.com/gorilla/handlers" 
+	"github.com/gorilla/mux"
 )
 
 
@@ -110,15 +112,16 @@ func GetFighter(w http.ResponseWriter, r *http.Request) {
 
 // Main Function
 func main() {
+
     /* Determine port on system. */
     port := ":" + os.Getenv("PORT")
     if port == "" {
         log.Fatal("$PORT must be set")
     }
 
+	/* Load data from CSV. */
     dir, _ := os.Open(sourcePath)
     files, _ := dir.Readdir(-1)
-
     for _, file := range files {
             fileName := file.Name()
         filePath := sourcePath + "/" + fileName
@@ -130,10 +133,18 @@ func main() {
    
     }
 
+	/* Add routes. */
     router := mux.NewRouter()
     router.HandleFunc("/api", GetFrameData).Methods("GET")
     router.HandleFunc("/api/{name}", GetFighter).Methods("GET")
-    log.Fatal(http.ListenAndServe(port, router))
+
+	/* Handle CORS.
+	 * Source: https://stackoverflow.com/questions/40985920/making-golang-gorilla-cors-handler-work
+	 */
+	headersOk := handlers.AllowedHeaders([]string{"X-Requested-With"})
+	originsOk := handlers.AllowedOrigins([]string{os.Getenv("ORIGIN_ALLOWED")})
+	methodsOk := handlers.AllowedMethods([]string{"GET", "HEAD", "POST", "PUT", "OPTIONS"})
+	log.Fatal(http.ListenAndServe(port, handlers.CORS(originsOk, headersOk, methodsOk)(router)))	
 
     fmt.Println("Finished main()")
 }
