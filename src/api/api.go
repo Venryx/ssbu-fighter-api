@@ -82,14 +82,12 @@ func GetFrameData(w http.ResponseWriter, r *http.Request) {
         if found == false {
             fmt.Fprintf(w, "Action not found!")
         }
-    } else { // Without 
-        pretty, err := json.MarshalIndent(fighters, "", "  ")
-        if err == nil {
-            json.NewEncoder(w).Encode(pretty)
-        }
+    } else { // Without
+        enc := json.NewEncoder(w)
+        enc.SetIndent("", "  ")
+        enc.Encode(fighters)
     }
 }
-
 
 // Display a fighter
 func GetFighter(w http.ResponseWriter, r *http.Request) {
@@ -131,7 +129,6 @@ func GetFighter(w http.ResponseWriter, r *http.Request) {
         }
     }
 }
-
 
 // Main Function
 func main() {
