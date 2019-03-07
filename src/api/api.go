@@ -140,8 +140,12 @@ func main() {
     }
 
 	/* Load data from CSV. */
-    dir, _ := os.Open(sourcePath)
-    files, _ := dir.Readdir(-1)
+    dir, err := os.Open(sourcePath)
+    if err != nil:
+        os.Exit(1)
+    files, err := dir.Readdir(-1)
+    if err != nil:
+        os.Exit(1)
     for _, file := range files {
             fileName := file.Name()
         filePath := sourcePath + "/" + fileName
